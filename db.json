@@ -1,1196 +1,572 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Pratham Nemade",
-      "email": "admin@gmail.com",
-      "type": "admin",
-      "image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg",
-      "password": "admin"
-    },
-    {
-      "id": 2,
-      "name": "Akash Yadav",
-      "email": "user@gmail.com",
-      "type": "user",
-      "image": "https://img.freepik.com/free-photo/young-bearded-man-with-striped-shirt_273609-5677.jpg",
-      "password": "user"
-    }
-  ],
-  "mens":[
-    {
-      "id": 1,
-      "category": "T-Shirts",
-      "name": "Classic Cotton T-Shirt",
-      "price": 19.99,
-      "size": ["S", "M", "L", "XL"],
-      "color": ["Black", "White", "Grey"],
-      "imageURL": "https://placeholder.com/images/menswear/tshirt1.jpg",
-      "description": "A classic cotton t-shirt perfect for everyday wear.",
-      "stock": 100,
-      "rating": 4.5
-    },
-    {
-      "id": 2,
-      "category": "Jeans",
-      "name": "Slim Fit Denim",
-      "price": 59.99,
-      "size": ["S", "M", "L", "XL"],
-      "color": ["Dark Blue", "Light Blue", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/jeans1.jpg",
-      "description": "High-quality denim jeans with a slim fit design.",
-      "stock": 80,
-      "rating": 4.7
-    },
-    {
-      "id": 3,
-      "category": "Jackets",
-      "name": "Leather Biker Jacket",
-      "price": 120.00,
-      "size": ["M", "L", "XL", "XXL"],
-      "color": ["Black", "Brown"],
-      "imageURL": "https://placeholder.com/images/menswear/jacket1.jpg",
-      "description": "Authentic leather biker jacket for the ultimate road warrior.",
-      "stock": 50,
-      "rating": 4.8
-    },
-    {
-      "id": 4,
-      "category": "Sweaters",
-      "name": "Crew Neck Wool Sweater",
-      "price": 45.99,
-      "size": ["S", "M", "L", "XL"],
-      "color": ["Navy", "Grey", "Red"],
-      "imageURL": "https://placeholder.com/images/menswear/sweater1.jpg",
-      "description": "A warm and cozy wool sweater for chilly evenings.",
-      "stock": 70,
-      "rating": 4.6
-    },
-    {
-      "id": 5,
-      "category": "Shorts",
-      "name": "Cargo Shorts",
-      "price": 29.99,
-      "size": ["S", "M", "L", "XL"],
-      "color": ["Khaki", "Olive", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/shorts1.jpg",
-      "description": "Durable cargo shorts with plenty of pocket space.",
-      "stock": 85,
-      "rating": 4.3
-    },
-    {
-      "id": 6,
-      "category": "Footwear",
-      "name": "Classic Leather Boots",
-      "price": 89.99,
-      "size": ["7", "8", "9", "10", "11"],
-      "color": ["Black", "Brown"],
-      "imageURL": "https://placeholder.com/images/menswear/footwear1.jpg",
-      "description": "Sturdy and stylish leather boots for any occasion.",
-      "stock": 60,
-      "rating": 4.4
-    },
-    {
-      "id": 7,
-      "category": "Underwear",
-      "name": "Boxer Briefs Pack",
-      "price": 34.99,
-      "size": ["S", "M", "L", "XL"],
-      "color": ["Black", "Grey", "White"],
-      "imageURL": "https://placeholder.com/images/menswear/underwear1.jpg",
-      "description": "Comfortable and breathable boxer briefs in a pack of three.",
-      "stock": 200,
-      "rating": 4.5
-    },
-    {
-      "id": 9,
-      "category": "Jeans",
-      "name": "Slim Fit Denim Jeans",
-      "price": 39.99,
-      "size": ["S", "M", "L", "XL"],
-      "color": ["Light Blue", "Dark Blue", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/jeans1.jpg",
-      "description": "Stylish slim fit jeans for a modern look.",
-      "stock": 90,
-      "rating": 4.4
-    },
-    {
-      "id": 10,
-      "category": "Hoodies",
-      "name": "Pullover Hoodie",
-      "price": 29.99,
-      "size": ["S", "M", "L", "XL", "XXL"],
-      "color": ["Grey", "Black", "Maroon"],
-      "imageURL": "https://placeholder.com/images/menswear/hoodie1.jpg",
-      "description": "Comfortable pullover hoodie, perfect for casual days.",
-      "stock": 85,
-      "rating": 4.6
-    },
-    {
-      "id": 11,
-      "category": "Jackets",
-      "name": "Waterproof Outdoor Jacket",
-      "price": 59.99,
-      "size": ["M", "L", "XL", "XXL"],
-      "color": ["Navy", "Black", "Olive"],
-      "imageURL": "https://placeholder.com/images/menswear/jacket1.jpg",
-      "description": "Durable, waterproof jacket designed for outdoor adventures.",
-      "stock": 75,
-      "rating": 4.7
-    },
-    {
-      "id": 12,
-      "category": "Sweatshirts",
-      "name": "Classic Pullover Hoodie",
-      "price": 39.99,
-      "size": ["M", "L", "XL"],
-      "color": ["Gray", "Black", "Blue"],
-      "imageURL": "https://placeholder.com/images/menswear/sweatshirt1.jpg",
-      "description": "Comfortable, versatile hoodie perfect for casual wear or light workouts.",
-      "stock": 60,
-      "rating": 4.5
-    },
-    {
-      "id": 13,
-      "category": "Shirts",
-      "name": "Cotton Casual Shirt",
-      "price": 29.99,
-      "size": ["M", "L", "XL"],
-      "color": ["White", "Navy", "Khaki"],
-      "imageURL": "https://placeholder.com/images/menswear/shirt1.jpg",
-      "description": "Breathable cotton shirt, ideal for both work and weekend outings.",
-      "stock": 80,
-      "rating": 4.6
-    },
-    {
-      "id": 14,
-      "category": "Formal Shirts",
-      "name": "Slim Fit Dress Shirt",
-      "price": 49.99,
-      "size": ["M", "L", "XL", "XXL"],
-      "color": ["Black", "White", "Light Blue"],
-      "imageURL": "https://placeholder.com/images/menswear/formalshirt1.jpg",
-      "description": "Elegant slim fit shirt designed for formal occasions and business meetings.",
-      "stock": 50,
-      "rating": 4.8
-    },
-    {
-      "id": 15,
-      "category": "Jeans",
-      "name": "Classic Straight Jeans",
-      "price": 59.99,
-      "size": ["M", "L", "XL", "XXL"],
-      "color": ["Dark Blue", "Light Blue", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/jeans1.jpg",
-      "description": "Durable and stylish jeans suitable for everyday wear.",
-      "stock": 70,
-      "rating": 4.5
-    },
-    {
-      "id": 16,
-      "category": "Trousers",
-      "name": "Chino Trousers",
-      "price": 49.99,
-      "size": ["M", "L", "XL"],
-      "color": ["Beige", "Navy", "Gray"],
-      "imageURL": "https://placeholder.com/images/menswear/trousers1.jpg",
-      "description": "Versatile chino trousers, perfect for casual or smart-casual looks.",
-      "stock": 65,
-      "rating": 4.4
-    },
-    {
-      "id": 17,
-      "category": "Shorts",
-      "name": "Casual Cargo Shorts",
-      "price": 34.99,
-      "size": ["M", "L", "XL"],
-      "color": ["Olive", "Camel", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/shorts1.jpg",
-      "description": "Relaxed fit cargo shorts with multiple pockets for outdoor activities.",
-      "stock": 55,
-      "rating": 4.3
-    },
-    {
-      "id": 18,
-      "category": "Outerwear",
-      "name": "Lightweight Bomber Jacket",
-      "price": 69.99,
-      "size": ["M", "L", "XL", "XXL"],
-      "color": ["Black", "Olive", "Navy"],
-      "imageURL": "https://placeholder.com/images/menswear/outerwear1.jpg",
-      "description": "A trendy and versatile bomber jacket, great for layering in cooler weather.",
-      "stock": 45,
-      "rating": 4.7
-    },
-    {
-      "id": 19,
-      "category": "Suits",
-      "name": "Modern Fit Suit",
-      "price": 199.99,
-      "size": ["M", "L", "XL"],
-      "color": ["Navy", "Gray", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/suit1.jpg",
-      "description": "Sleek and modern suit for professional settings or special occasions.",
-      "stock": 40,
-      "rating": 4.9
-    },
-    {
-      "id": 20,
-      "category": "Underwear",
-      "name": "Boxer Briefs Pack",
-      "price": 24.99,
-      "size": ["M", "L", "XL"],
-      "color": ["Black", "Gray", "White"],
-      "imageURL": "https://placeholder.com/images/menswear/underwear1.jpg",
-      "description": "Comfortable, breathable boxer briefs in a convenient 3-pack.",
-      "stock": 100,
-      "rating": 4.2
-    },
-    {
-      "id": 21,
-      "category": "Accessories",
-      "name": "Leather Belt",
-      "price": 19.99,
-      "size": ["One Size"],
-      "color": ["Brown", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/accessory1.jpg",
-      "description": "Classic leather belt, an essential accessory for any wardrobe.",
-      "stock": 85,
-      "rating": 4.6
-    },
-    {
-      "id": 22,
-      "category": "Sweaters",
-      "name": "Crew Neck Wool Sweater",
-      "price": 49.99,
-      "size": ["M", "L", "XL", "XXL"],
-      "color": ["Burgundy", "Navy", "Gray"],
-      "imageURL": "https://placeholder.com/images/menswear/sweater1.jpg",
-      "description": "Warm and cozy wool sweater perfect for chilly days.",
-      "stock": 50,
-      "rating": 4.5
-    },
-    {
-      "id": 23,
-      "category": "Boots",
-      "name": "Leather Ankle Boots",
-      "price": 89.99,
-      "size": ["8", "9", "10", "11"],
-      "color": ["Black", "Brown"],
-      "imageURL": "https://placeholder.com/images/menswear/boots1.jpg",
-      "description": "Durable leather boots, ideal for both outdoor adventures and casual outings.",
-      "stock": 40,
-      "rating": 4.7
-    },
-    {
-      "id": 24,
-      "category": "Hats",
-      "name": "Baseball Cap",
-      "price": 15.99,
-      "size": ["One Size"],
-      "color": ["Black", "White", "Blue"],
-      "imageURL": "https://placeholder.com/images/menswear/hat1.jpg",
-      "description": "Classic baseball cap with adjustable strap for a perfect fit.",
-      "stock": 100,
-      "rating": 4.3
-    },
-    {
-      "id": 25,
-      "category": "Watches",
-      "name": "Stainless Steel Watch",
-      "price": 199.99,
-      "size": ["One Size"],
-      "color": ["Silver", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/watch1.jpg",
-      "description": "Elegant stainless steel watch with a minimalist design.",
-      "stock": 30,
-      "rating": 4.8
-    },
-    {
-      "id": 26,
-      "category": "Gloves",
-      "name": "Leather Gloves",
-      "price": 29.99,
-      "size": ["M", "L"],
-      "color": ["Black", "Brown"],
-      "imageURL": "https://placeholder.com/images/menswear/gloves1.jpg",
-      "description": "Premium leather gloves for warmth and style during the winter season.",
-      "stock": 55,
-      "rating": 4.4
-    },
-    {
-      "id": 27,
-      "category": "Bags",
-      "name": "Leather Messenger Bag",
-      "price": 119.99,
-      "size": ["One Size"],
-      "color": ["Brown", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/bag1.jpg",
-      "description": "Stylish and functional leather messenger bag for the modern man.",
-      "stock": 25,
-      "rating": 4.6
-    },
-    {
-      "id": 28,
-      "category": "Belts",
-      "name": "Casual Webbing Belt",
-      "price": 14.99,
-      "size": ["One Size"],
-      "color": ["Navy", "Olive", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/belt2.jpg",
-      "description": "Versatile and durable webbing belt with a classic buckle, perfect for casual outfits.",
-      "stock": 90,
-      "rating": 4.2
-    },
-    {
-      "id": 29,
-      "category": "Sunglasses",
-      "name": "Polarized Aviator Sunglasses",
-      "price": 49.99,
-      "size": ["One Size"],
-      "color": ["Gold Frame", "Black Frame"],
-      "imageURL": "https://placeholder.com/images/menswear/sunglasses1.jpg",
-      "description": "Classic aviator sunglasses with polarized lenses for superior sun protection.",
-      "stock": 75,
-      "rating": 4.7
-    },
-    {
-      "id": 30,
-      "category": "Perfumes",
-      "name": "Eau de Toilette",
-      "price": 59.99,
-      "size": ["50ml"],
-      "color": ["Clear"],
-      "imageURL": "https://placeholder.com/images/menswear/perfume1.jpg",
-      "description": "A refreshing and sophisticated scent for the modern man.",
-      "stock": 60,
-      "rating": 4.5
-    }
-  ],
-  "womens":[
-    {
-      "id": 2,
-      "category": "Sweatshirts",
-      "name": "Cozy Cotton Sweatshirt",
-      "price": 39.99,
-      "size": ["S", "M", "L", "XL"],
-      "color": ["Grey", "Pink", "White"],
-      "imageURL": "https://placeholder.com/images/womenswear/sweatshirt1.jpg",
-      "description": "Soft and cozy cotton sweatshirt for casual wear.",
-      "stock": 50,
-      "rating": 4.5
-    },
-    {
-      "id": 3,
-      "category": "Formal Shirts",
-      "name": "Classic White Formal Shirt",
-      "price": 45.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["White", "Blue", "Black"],
-      "imageURL": "https://placeholder.com/images/womenswear/formalshirt1.jpg",
-      "description": "Crisp and elegant white formal shirt for professional settings.",
-      "stock": 60,
-      "rating": 4.8
-    },
-    {
-      "id": 4,
-      "category": "Frocks",
-      "name": "Summer Floral Frock",
-      "price": 49.99,
-      "size": ["S", "M", "L"],
-      "color": ["Red Floral", "Blue Floral", "Green Floral"],
-      "imageURL": "https://placeholder.com/images/womenswear/frock1.jpg",
-      "description": "Light and airy floral frock perfect for summer outings.",
-      "stock": 40,
-      "rating": 4.6
-    },
-    {
-      "id": 5,
-      "category": "Short Dresses",
-      "name": "Elegant Cocktail Dress",
-      "price": 65.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Black", "Navy", "Burgundy"],
-      "imageURL": "https://placeholder.com/images/womenswear/shortdress1.jpg",
-      "description": "Chic and elegant dress suitable for cocktail parties.",
-      "stock": 30,
-      "rating": 4.9
-    },
-    {
-      "id": 6,
-      "category": "Shirts",
-      "name": "Casual Linen Shirt",
-      "price": 35.99,
-      "size": ["M", "L", "XL"],
-      "color": ["White", "Beige", "Sky Blue"],
-      "imageURL": "https://placeholder.com/images/womenswear/shirt1.jpg",
-      "description": "Breathable linen shirt for a casual, relaxed look.",
-      "stock": 55,
-      "rating": 4.4
-    },
-    {
-      "id": 7,
-      "category": "Blouses",
-      "name": "Silk Blouse",
-      "price": 55.99,
-      "size": ["S", "M", "L", "XL"],
-      "color": ["Ivory", "Champagne", "Black"],
-      "imageURL": "https://placeholder.com/images/womenswear/blouse1.jpg",
-      "description": "Luxurious silk blouse for an elegant appearance.",
-      "stock": 45,
-      "rating": 4.7
-    },
-    {
-      "id": 8,
-      "category": "Skirts",
-      "name": "Pleated Midi Skirt",
-      "price": 42.99,
-      "size": ["S", "M", "L"],
-      "color": ["Navy", "Grey", "Maroon"],
-      "imageURL": "https://placeholder.com/images/womenswear/skirt1.jpg",
-      "description": "Stylish midi skirt with elegant pleats for a versatile look.",
-      "stock": 50,
-      "rating": 4.5
-    },
-    {
-      "id": 9,
-      "category": "Jeans",
-      "name": "High-Waisted Skinny Jeans",
-      "price": 49.99,
-      "size": ["XS", "S", "M", "L", "XL"],
-      "color": ["Dark Denim", "Light Denim", "Black"],
-      "imageURL": "https://placeholder.com/images/womenswear/jeans1.jpg",
-      "description": "Flattering high-waisted skinny jeans in versatile colors.",
-      "stock": 65,
-      "rating": 4.6
-    },
-    {
-      "id": 10,
-      "category": "T-Shirts",
-      "name": "Graphic Tee",
-      "price": 25.99,
-      "size": ["S", "M", "L", "XL"],
-      "color": ["White Print", "Black Print", "Grey"],
-      "imageURL": "https://placeholder.com/images/womenswear/tshirt1.jpg",
-      "description": "Comfortable cotton tee with eye-catching graphic design.",
-      "stock": 80,
-      "rating": 4.3
-    },
-    {
-      "id": 11,
-      "category": "Leggings",
-      "name": "Performance Leggings",
-      "price": 35.99,
-      "size": ["S", "M", "L", "XL"],
-      "color": ["Black", "Navy", "Grey"],
-      "imageURL": "https://placeholder.com/images/womenswear/leggings1.jpg",
-      "description": "High-performance leggings for workout and casual wear.",
-      "stock": 70,
-      "rating": 4.8
-    },
-    {
-      "id": 12,
-      "category": "Sweatshirts",
-      "name": "Classic Hooded Sweatshirt",
-      "price": 45.99,
-      "size": ["S", "M", "L"],
-      "color": ["Gray", "Black", "White"],
-      "imageURL": "https://placeholder.com/images/womenswear/sweatshirt1.jpg",
-      "description": "Comfortable cotton blend hooded sweatshirt perfect for casual wear.",
-      "stock": 60,
-      "rating": 4.5
-    },
-    {
-      "id": 13,
-      "category": "Shirts",
-      "name": "Casual Button-Down Shirt",
-      "price": 39.99,
-      "size": ["S", "M", "L", "XL"],
-      "color": ["Blue", "White", "Pink"],
-      "imageURL": "https://placeholder.com/images/womenswear/shirt1.jpg",
-      "description": "Lightweight and breathable, ideal for both office and day out.",
-      "stock": 50,
-      "rating": 4.6
-    },
-    {
-      "id": 14,
-      "category": "Formal Shirts",
-      "name": "Elegant Silk Blouse",
-      "price": 55.99,
-      "size": ["M", "L", "XL"],
-      "color": ["Black", "Ivory", "Red"],
-      "imageURL": "https://placeholder.com/images/womenswear/formalshirt1.jpg",
-      "description": "Silk blend blouse for a polished and professional look.",
-      "stock": 40,
-      "rating": 4.8
-    },
-    {
-      "id": 15,
-      "category": "Frocks",
-      "name": "Summer Floral Frock",
-      "price": 49.99,
-      "size": ["S", "M", "L"],
-      "color": ["Green Floral", "Blue Floral", "Pink Floral"],
-      "imageURL": "https://placeholder.com/images/womenswear/frock1.jpg",
-      "description": "Light and airy, perfect for summer days.",
-      "stock": 55,
-      "rating": 4.4
-    },
-    {
-      "id": 16,
-      "category": "Short Dresses",
-      "name": "Chic Cocktail Dress",
-      "price": 65.99,
-      "size": ["XS", "S", "M"],
-      "color": ["Red", "Black", "Navy"],
-      "imageURL": "https://placeholder.com/images/womenswear/shortdress1.jpg",
-      "description": "Elegant and perfect for evening events.",
-      "stock": 30,
-      "rating": 4.9
-    },
-    {
-      "id": 17,
-      "category": "T-Shirts",
-      "name": "Graphic Tee",
-      "price": 25.99,
-      "size": ["S", "M", "L", "XL"],
-      "color": ["White Print", "Black Print", "Yellow Print"],
-      "imageURL": "https://placeholder.com/images/womenswear/tshirt1.jpg",
-      "description": "Soft cotton tee with eye-catching graphics.",
-      "stock": 70,
-      "rating": 4.3
-    },
-    {
-      "id": 18,
-      "category": "Jeans",
-      "name": "Skinny Fit Jeans",
-      "price": 59.99,
-      "size": ["28", "30", "32", "34"],
-      "color": ["Dark Denim", "Light Denim", "Black"],
-      "imageURL": "https://placeholder.com/images/womenswear/jeans1.jpg",
-      "description": "Stretch denim for comfort and a flattering fit.",
-      "stock": 65,
-      "rating": 4.7
-    },
-    {
-      "id": 19,
-      "category": "Skirts",
-      "name": "Pleated Midi Skirt",
-      "price": 42.99,
-      "size": ["S", "M", "L"],
-      "color": ["Navy", "Beige", "Olive"],
-      "imageURL": "https://placeholder.com/images/womenswear/skirt1.jpg",
-      "description": "Versatile midi skirt that pairs well with any top.",
-      "stock": 45,
-      "rating": 4.5
-    },
-    {
-      "id": 20,
-      "category": "Blazers",
-      "name": "Classic Fitted Blazer",
-      "price": 70.99,
-      "size": ["S", "M", "L", "XL"],
-      "color": ["Black", "Gray", "Navy"],
-      "imageURL": "https://placeholder.com/images/womenswear/blazer1.jpg",
-      "description": "Perfect for a professional setting or dressing up casual outfits.",
-      "stock": 50,
-      "rating": 4.6
-    },
-    {
-      "id": 21,
-      "category": "Leggings",
-      "name": "High-Waisted Workout Leggings",
-      "price": 35.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Black", "Gray", "Blue"],
-      "imageURL": "https://placeholder.com/images/womenswear/leggings1.jpg",
-      "description": "Supportive and flexible for all your workout needs.",
-      "stock": 80,
-      "rating": 4.4
-    },
-    {
-      "id": 22,
-      "category": "Tops",
-      "name": "Bohemian Style Blouse",
-      "price": 35.99,
-      "size": ["S", "M", "L", "XL"],
-      "color": ["White", "Black", "Coral"],
-      "imageURL": "https://placeholder.com/images/womenswear/top1.jpg",
-      "description": "Light and airy bohemian blouse perfect for a relaxed, stylish look.",
-      "stock": 60,
-      "rating": 4.4
-    },
-    {
-      "id": 23,
-      "category": "Leggings",
-      "name": "High Waist Fitness Leggings",
-      "price": 29.99,
-      "size": ["S", "M", "L"],
-      "color": ["Black", "Gray", "Navy"],
-      "imageURL": "https://placeholder.com/images/womenswear/leggings1.jpg",
-      "description": "Stretchable and comfortable leggings, ideal for workout sessions.",
-      "stock": 70,
-      "rating": 4.7
-    },
-    {
-      "id": 24,
-      "category": "Coats",
-      "name": "Elegant Woolen Coat",
-      "price": 99.99,
-      "size": ["S", "M", "L", "XL"],
-      "color": ["Camel", "Gray", "Black"],
-      "imageURL": "https://placeholder.com/images/womenswear/coat1.jpg",
-      "description": "Chic woolen coat that combines warmth with style for the winter season.",
-      "stock": 30,
-      "rating": 4.8
-    },
-    {
-      "id": 25,
-      "category": "Swimwear",
-      "name": "Tropical Print Bikini Set",
-      "price": 24.99,
-      "size": ["S", "M", "L"],
-      "color": ["Green Tropical", "Blue Tropical", "Pink Tropical"],
-      "imageURL": "https://placeholder.com/images/womenswear/swimwear1.jpg",
-      "description": "Vibrant bikini set with a tropical print, perfect for beach days and pool parties.",
-      "stock": 85,
-      "rating": 4.5
-    },
-    {
-      "id": 26,
-      "category": "Jeans",
-      "name": "Classic High-Rise Jeans",
-      "price": 54.99,
-      "size": ["XS", "S", "M", "L", "XL"],
-      "color": ["Light Denim", "Dark Denim", "Black"],
-      "imageURL": "https://placeholder.com/images/womenswear/jeans1.jpg",
-      "description": "Timeless high-rise jeans that offer both comfort and style.",
-      "stock": 50,
-      "rating": 4.6
-    },
-    {
-      "id": 27,
-      "category": "Accessories",
-      "name": "Elegant Silk Scarf",
-      "price": 19.99,
-      "size": ["One Size"],
-      "color": ["Red Floral", "Blue Geometric", "Yellow Paisley"],
-      "imageURL": "https://placeholder.com/images/womenswear/accessory1.jpg",
-      "description": "Add a touch of elegance to any outfit with this luxurious silk scarf.",
-      "stock": 90,
-      "rating": 4.9
-    },
-    {
-      "id": 28,
-      "category": "Dresses",
-      "name": "Maxi Evening Dress",
-      "price": 75.99,
-      "size": ["S", "M", "L", "XL"],
-      "color": ["Navy", "Burgundy", "Emerald"],
-      "imageURL": "https://placeholder.com/images/womenswear/dress1.jpg",
-      "description": "Stunning maxi dress perfect for formal occasions and evening events.",
-      "stock": 40,
-      "rating": 4.7
-    },
-    {
-      "id": 29,
-      "category": "Sneakers",
-      "name": "Trendy Athletic Sneakers",
-      "price": 65.99,
-      "size": [6, 7, 8, 9, 10],
-      "color": ["White", "Black", "Pink"],
-      "imageURL": "https://placeholder.com/images/womenswear/sneakers1.jpg",
-      "description": "Combine fashion and function with these trendy and comfortable athletic sneakers.",
-      "stock": 75,
-      "rating": 4.5
-    },
-    {
-      "id": 30,
-      "category": "Nightwear",
-      "name": "Silky Nightgown",
-      "price": 39.99,
-      "size": ["S", "M", "L"],
-      "color": ["Lavender", "Ivory", "Blush"],
-      "imageURL": "https://placeholder.com/images/womenswear/nightwear1.jpg",
-      "description": "Experience ultimate comfort at night with this soft, silky nightgown.",
-      "stock": 65,
-      "rating": 4.6
-    },
-    {
-      "id": 31,
-      "category": "Handbags",
-      "name": "Leather Tote Bag",
-      "price": 89.99,
-      "size": ["One Size"],
-      "color": ["Tan", "Black", "White"],
-      "imageURL": "https://placeholder.com/images/womenswear/handbag1.jpg",
-      "description": "Versatile and stylish leather tote bag, perfect for everyday use.",
-      "stock": 55,
-      "rating": 4.8
-    },
-    {
-      "id": 32,
-      "category": "Cardigans",
-      "name": "Oversized Knit Cardigan",
-      "price": 55.99,
-      "size": ["S", "M", "L", "XL"],
-      "color": ["Beige", "Black", "Gray"],
-      "imageURL": "https://placeholder.com/images/womenswear/cardigan1.jpg",
-      "description": "Cozy oversized cardigan, perfect for layering during colder months.",
-      "stock": 45,
-      "rating": 4.5
-    },
-    {
-      "id": 33,
-      "category": "Boots",
-      "name": "Classic Leather Ankle Boots",
-      "price": 79.99,
-      "size": [6, 7, 8, 9, 10],
-      "color": ["Black", "Brown", "Tan"],
-      "imageURL": "https://placeholder.com/images/womenswear/boots1.jpg",
-      "description": "Versatile leather ankle boots with a comfortable fit for all-day wear.",
-      "stock": 60,
-      "rating": 4.7
-    },
-    {
-      "id": 34,
-      "category": "Sunglasses",
-      "name": "Vintage Style Sunglasses",
-      "price": 25.99,
-      "size": ["One Size"],
-      "color": ["Black", "Brown", "Tortoise"],
-      "imageURL": "https://placeholder.com/images/womenswear/sunglasses1.jpg",
-      "description": "Fashionable vintage-inspired sunglasses to complete any look.",
-      "stock": 80,
-      "rating": 4.6
-    },
-    {
-      "id": 35,
-      "category": "Hats",
-      "name": "Wide Brim Fedora",
-      "price": 29.99,
-      "size": ["One Size"],
-      "color": ["Black", "Gray", "Beige"],
-      "imageURL": "https://placeholder.com/images/womenswear/hat1.jpg",
-      "description": "Elegant wide brim fedora, ideal for adding a touch of sophistication.",
-      "stock": 70,
-      "rating": 4.4
-    },
-    {
-      "id": 36,
-      "category": "Bikinis",
-      "name": "High-Waisted Bikini Set",
-      "price": 34.99,
-      "size": ["S", "M", "L"],
-      "color": ["Red", "Black", "Blue"],
-      "imageURL": "https://placeholder.com/images/womenswear/bikini1.jpg",
-      "description": "Chic high-waisted bikini set for a flattering beach-ready look.",
-      "stock": 85,
-      "rating": 4.8
-    },
-    {
-      "id": 37,
-      "category": "Scarves",
-      "name": "Lightweight Floral Scarf",
-      "price": 17.99,
-      "size": ["One Size"],
-      "color": ["Pink Floral", "Blue Floral", "Yellow Floral"],
-      "imageURL": "https://placeholder.com/images/womenswear/scarf1.jpg",
-      "description": "Add a pop of color with this lightweight, beautifully patterned floral scarf.",
-      "stock": 90,
-      "rating": 4.7
-    },
-    {
-      "id": 38,
-      "category": "Belts",
-      "name": "Leather Waist Belt",
-      "price": 22.99,
-      "size": ["S", "M", "L"],
-      "color": ["Black", "Brown", "Tan"],
-      "imageURL": "https://placeholder.com/images/womenswear/belt1.jpg",
-      "description": "Accentuate your silhouette with this chic leather waist belt.",
-      "stock": 75,
-      "rating": 4.5
-    },
-    {
-      "id": 39,
-      "category": "Gloves",
-      "name": "Elegant Leather Gloves",
-      "price": 45.99,
-      "size": ["S", "M", "L"],
-      "color": ["Black", "Brown", "Red"],
-      "imageURL": "https://placeholder.com/images/womenswear/gloves1.jpg",
-      "description": "Keep your hands warm in style with these elegant leather gloves.",
-      "stock": 55,
-      "rating": 4.6
-    },
-    {
-      "id": 40,
-      "category": "Watches",
-      "name": "Classic Analog Watch",
-      "price": 150.99,
-      "size": ["One Size"],
-      "color": ["Silver", "Gold", "Rose Gold"],
-      "imageURL": "https://placeholder.com/images/womenswear/watch1.jpg",
-      "description": "Timeless analog watch that adds a touch of elegance to any outfit.",
-      "stock": 40,
-      "rating": 4.9
-    }
-  ],
-  "kids":[
-    {
-      "id": 2,
-      "category": "Sweatshirts",
-      "name": "Kids' Cozy Fleece Sweatshirt",
-      "price": 19.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Red", "Blue", "Grey"],
-      "imageURL": "https://placeholder.com/images/kidswear/sweatshirt1.jpg",
-      "description": "Soft and cozy fleece sweatshirt for everyday comfort.",
-      "stock": 50,
-      "rating": 4.5
-    },
-    {
-      "id": 3,
-      "category": "Shirts",
-      "name": "Children's Cotton Button-Up Shirt",
-      "price": 14.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["White", "Light Blue", "Pink"],
-      "imageURL": "https://placeholder.com/images/kidswear/shirt1.jpg",
-      "description": "Lightweight cotton shirt perfect for any occasion.",
-      "stock": 60,
-      "rating": 4.6
-    },
-    {
-      "id": 4,
-      "category": "Formal Shirts",
-      "name": "Kids' Formal Dress Shirt",
-      "price": 22.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["White", "Black", "Navy"],
-      "imageURL": "https://placeholder.com/images/kidswear/formalshirt1.jpg",
-      "description": "Elegant dress shirt for special occasions.",
-      "stock": 40,
-      "rating": 4.8
-    },
-    {
-      "id": 5,
-      "category": "Pants",
-      "name": "Kids' Casual Cotton Pants",
-      "price": 24.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Khaki", "Navy", "Black"],
-      "imageURL": "https://placeholder.com/images/kidswear/pants1.jpg",
-      "description": "Comfortable and durable cotton pants for everyday wear.",
-      "stock": 55,
-      "rating": 4.5
-    },
-    {
-      "id": 6,
-      "category": "Jeans",
-      "name": "Children's Stretch Jeans",
-      "price": 29.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Dark Blue", "Light Blue", "Black"],
-      "imageURL": "https://placeholder.com/images/kidswear/jeans1.jpg",
-      "description": "Versatile stretch jeans with a comfortable fit.",
-      "stock": 65,
-      "rating": 4.7
-    },
-    {
-      "id": 7,
-      "category": "Dresses",
-      "name": "Kids' Floral Print Dress",
-      "price": 25.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Pink Floral", "Blue Floral", "Yellow Floral"],
-      "imageURL": "https://placeholder.com/images/kidswear/dress1.jpg",
-      "description": "Beautiful floral print dress perfect for any festive occasion.",
-      "stock": 70,
-      "rating": 4.8
-    },
-    {
-      "id": 8,
-      "category": "Shorts",
-      "name": "Kids' Cargo Shorts",
-      "price": 18.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Olive", "Tan", "Navy"],
-      "imageURL": "https://placeholder.com/images/kidswear/shorts1.jpg",
-      "description": "Durable cargo shorts for active outdoor play.",
-      "stock": 80,
-      "rating": 4.4
-    },
-    {
-      "id": 9,
-      "category": "Outerwear",
-      "name": "Children's Lightweight Rain Jacket",
-      "price": 34.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Yellow", "Red", "Blue"],
-      "imageURL": "https://placeholder.com/images/kidswear/outerwear1.jpg",
-      "description": "Water-resistant and lightweight jacket for rainy days.",
-      "stock": 45,
-      "rating": 4.6
-    },
-    {
-      "id": 10,
-      "category": "Socks",
-      "name": "Kids' Cotton Blend Socks (5-Pack)",
-      "price": 9.99,
-      "size": ["XS", "S", "M"],
-      "color": ["Multicolor"],
-      "imageURL": "https://placeholder.com/images/kidswear/socks1.jpg",
-      "description": "Comfortable, breathable cotton blend socks for daily wear.",
-      "stock": 100,
-      "rating": 4.7
-    },
-    {
-      "id": 11,
-      "category": "Swimwear",
-      "name": "Children's Swim Shorts",
-      "price": 15.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Blue", "Green", "Red"],
-      "imageURL": "https://placeholder.com/images/kidswear/swimwear1.jpg",
-      "description": "Quick-drying swim shorts for fun in and out of the water.",
-      "stock": 65,
-      "rating": 4.5
-    },
-    {
-      "id": 12,
-      "category": "Skirts",
-      "name": "Kids' Pleated Cotton Skirt",
-      "price": 16.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Navy", "Red", "Green"],
-      "imageURL": "https://placeholder.com/images/kidswear/skirt1.jpg",
-      "description": "Chic pleated skirt in cotton, perfect for school and play.",
-      "stock": 55,
-      "rating": 4.6
-    },
-    {
-      "id": 13,
-      "category": "Hats",
-      "name": "Children's Baseball Cap",
-      "price": 7.99,
-      "size": ["One Size"],
-      "color": ["Black", "Blue", "Pink"],
-      "imageURL": "https://placeholder.com/images/kidswear/hat1.jpg",
-      "description": "Adjustable baseball cap to keep the sun out of their eyes.",
-      "stock": 85,
-      "rating": 4.5
-    },
-    {
-      "id": 14,
-      "category": "Underwear",
-      "name": "Kids' Cotton Underwear Set",
-      "price": 12.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Multicolor"],
-      "imageURL": "https://placeholder.com/images/kidswear/underwear1.jpg",
-      "description": "Soft, breathable cotton underwear in a variety of colors.",
-      "stock": 90,
-      "rating": 4.7
-    },
-    {
-      "id": 15,
-      "category": "Nightwear",
-      "name": "Kids' Pajama Set",
-      "price": 19.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Stars", "Stripes", "Solid"],
-      "imageURL": "https://placeholder.com/images/kidswear/nightwear1.jpg",
-      "description": "Comfortable pajama set for a good night's sleep.",
-      "stock": 70,
-      "rating": 4.8
-    },
-    {
-      "id": 16,
-      "category": "Accessories",
-      "name": "Kids' Backpack",
-      "price": 22.99,
-      "size": ["One Size"],
-      "color": ["Red", "Blue", "Green"],
-      "imageURL": "https://placeholder.com/images/kidswear/accessory1.jpg",
-      "description": "Durable and colorful backpack for school and travel.",
-      "stock": 60,
-      "rating": 4.6
-    },
-    {
-      "id": 17,
-      "category": "Footwear",
-      "name": "Children's Sneakers",
-      "price": 29.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["White", "Black", "Grey"],
-      "imageURL": "https://placeholder.com/images/kidswear/footwear1.jpg",
-      "description": "Stylish and comfortable sneakers for everyday wear.",
-      "stock": 75,
-      "rating": 4.7
-    },
-    {
-      "id": 18,
-      "category": "Leggings",
-      "name": "Kids' Stretch Leggings",
-      "price": 14.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Black", "Navy", "Grey"],
-      "imageURL": "https://placeholder.com/images/kidswear/leggings1.jpg",
-      "description": "Versatile stretch leggings, perfect for play and relaxation.",
-      "stock": 80,
-      "rating": 4.5
-    },
-    {
-      "id": 19,
-      "category": "Sweaters",
-      "name": "Kids' Wool Blend Sweater",
-      "price": 24.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Maroon", "Navy", "Cream"],
-      "imageURL": "https://placeholder.com/images/kidswear/sweater1.jpg",
-      "description": "Cozy wool blend sweater to keep warm in cooler weather.",
-      "stock": 50,
-      "rating": 4.6
-    },
-    {
-      "id": 20,
-      "category": "Costumes",
-      "name": "Children's Superhero Costume",
-      "price": 34.99,
-      "size": ["S", "M", "L"],
-      "color": ["Various"],
-      "imageURL": "https://placeholder.com/images/kidswear/costume1.jpg",
-      "description": "Fun and vibrant superhero costumes for playtime adventures.",
-      "stock": 40,
-      "rating": 4.8
-    },
-    {
-      "id": 21,
-      "category": "School Uniforms",
-      "name": "Kids' School Uniform Set",
-      "price": 49.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Navy", "White", "Khaki"],
-      "imageURL": "https://placeholder.com/images/kidswear/uniform1.jpg",
-      "description": "Complete school uniform set for daily wear.",
-      "stock": 60,
-      "rating": 4.7
-    },
-    {
-      "id": 22,
-      "category": "T-Shirts",
-      "name": "Kids' Graphic Tee",
-      "price": 12.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["White", "Black", "Yellow"],
-      "imageURL": "https://placeholder.com/images/kidswear/tshirt1.jpg",
-      "description": "Fun and colorful graphic tees for everyday wear.",
-      "stock": 90,
-      "rating": 4.6
-    },
-    {
-      "id": 23,
-      "category": "Jackets",
-      "name": "Kids' Lightweight Zip-Up Jacket",
-      "price": 35.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Blue", "Green", "Red"],
-      "imageURL": "https://placeholder.com/images/kidswear/jacket2.jpg",
-      "description": "Perfect for layering, this zip-up jacket keeps your child warm during cooler days.",
-      "stock": 60,
-      "rating": 4.7
-    },
-    {
-      "id": 24,
-      "category": "Beanies",
-      "name": "Children's Winter Beanie",
-      "price": 9.99,
-      "size": ["One Size"],
-      "color": ["Grey", "Navy", "Red"],
-      "imageURL": "https://placeholder.com/images/kidswear/beanie1.jpg",
-      "description": "Keep their head warm with our soft, knit winter beanie.",
-      "stock": 100,
-      "rating": 4.8
-    },
-    {
-      "id": 25,
-      "category": "Snow Pants",
-      "name": "Kids' Insulated Snow Pants",
-      "price": 49.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Black", "Blue", "Purple"],
-      "imageURL": "https://placeholder.com/images/kidswear/snowpants1.jpg",
-      "description": "Waterproof and insulated, these snow pants are perfect for winter activities.",
-      "stock": 50,
-      "rating": 4.9
-    },
-    {
-      "id": 26,
-      "category": "Gloves",
-      "name": "Children's Winter Gloves",
-      "price": 14.99,
-      "size": ["XS", "S", "M"],
-      "color": ["Black", "Red", "Blue"],
-      "imageURL": "https://placeholder.com/images/kidswear/gloves1.jpg",
-      "description": "Warm and waterproof gloves for cold and snowy days.",
-      "stock": 75,
-      "rating": 4.7
-    },
-    {
-      "id": 27,
-      "category": "Sandals",
-      "name": "Kids' Summer Sandals",
-      "price": 19.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Brown", "Navy", "Pink"],
-      "imageURL": "https://placeholder.com/images/kidswear/sandals1.jpg",
-      "description": "Comfortable and durable sandals for summer adventures.",
-      "stock": 85,
-      "rating": 4.5
-    },
-    {
-      "id": 28,
-      "category": "Rain Boots",
-      "name": "Kids' Waterproof Rain Boots",
-      "price": 29.99,
-      "size": ["XS", "S", "M", "L"],
-      "color": ["Yellow", "Green", "Blue"],
-      "imageURL": "https://placeholder.com/images/kidswear/rainboots1.jpg",
-      "description": "Keep their feet dry and comfortable with these colorful waterproof boots.",
-      "stock": 60,
-      "rating": 4.6
-    },
-    {
-      "id": 29,
-      "category": "Bodysuits",
-      "name": "Infant's Cotton Bodysuit",
-      "price": 9.99,
-      "size": ["Newborn", "3M", "6M", "12M"],
-      "color": ["White", "Pink", "Blue"],
-      "imageURL": "https://placeholder.com/images/kidswear/bodysuit1.jpg",
-      "description": "Soft and comfortable cotton bodysuits for the little ones.",
-      "stock": 120,
-      "rating": 4.8
-    },
-    {
-      "id": 30,
-      "category": "Overalls",
-      "name": "Toddler's Denim Overalls",
-      "price": 24.99,
-      "size": ["12M", "18M", "2T", "3T"],
-      "color": ["Denim"],
-      "imageURL": "https://placeholder.com/images/kidswear/overalls1.jpg",
-      "description": "Classic and durable denim overalls for toddlers.",
-      "stock": 70,
-      "rating": 4.9
-    }
-  ],
-  "wishlist":[
-  ],
-  "cart" : [
-  ],
-  "ordered":[
-  ]
+    "womens": [{
+            "productlist href": "https://www.thesouledstore.com/product/tss-originals-trippy-smiles-women-boyfriend-shirts?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1708596696_5463318.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "TSS Originals: Trippy Smiles",
+            "listprice": "Women Boyfriend Shirts",
+            "offer": "₹ 1499"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/tss-originals-konnichiwa-women-boyfriend-shirts?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1706956756_1638534.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "TSS Originals: Konnichiwa",
+            "listprice": "Women Boyfriend Shirts",
+            "offer": "₹ 1499"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/tss-originals-floral-mirage-women-boyfriend-shirts?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1707551813_9118251.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "TSS Originals: Floral Mirage",
+            "listprice": "Women Boyfriend Shirts",
+            "offer": "₹ 1499"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/mickey-mouse-checkered-charm-women-oversized-shirts?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1708013397_3203936.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "Satin Shirt: Mickey Mouse",
+            "listprice": "Women Shirts",
+            "offer": "₹ 1299"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/powerpuff-girls-newsprint-women-oversized-shirts?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1707551628_5706931.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "Satin Shirt: PPG Newsprint",
+            "listprice": "Women Shirts",
+            "offer": "₹ 1299"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/looney-tunes-bugs-is-back-boyfriend-shirt-womens?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1689146243_4558691.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "Looney Tunes: Bugs Is Back",
+            "listprice": "Women Boyfriend Shirts",
+            "offer": "₹ 1299"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/solids-blue-stripes-boyfriend-shirt-womens?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1707539667_7183815.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "Solids: Blue Stripes",
+            "listprice": "Women Boyfriend Shirts",
+            "offer": "₹ 1199"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/solids-sunny-yellow-women-boyfriend-shirts?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1707755425_3229694.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "Cotton Linen: Sunny Yellow",
+            "listprice": "Women Boyfriend Shirts",
+            "offer": "₹ 1299"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/tss-originals-stained-glass-women-boyfriend-shirts?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1702550657_6257306.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "TSS Originals: Stained Glass",
+            "listprice": "Women Boyfriend Shirts",
+            "offer": "₹ 1499"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/plaid-purple-and-white-boyfriend-shirts?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1705563612_3025141.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "Plaid: Purple And White",
+            "listprice": "Women Boyfriend Shirts",
+            "offer": "₹ 1299"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/solids-moss-green-women-boyfriend-shirts?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1706763490_9134364.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "Cotton Linen: Canary Green",
+            "listprice": "Women Boyfriend Shirts",
+            "offer": "₹ 1299"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/solids-coral-stripes-womens-boyfriend-shirts?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1704518211_9277800.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "Solids: Coral Stripes",
+            "listprice": "Women Boyfriend Shirts",
+            "offer": "₹ 999"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/solids-pink-women-boyfriend-shirt-womens?gte=2",
+            "customFade src": "",
+            "text-left": "Cotton Linen: Pink",
+            "listprice": "Women Boyfriend Shirts",
+            "offer": "₹ 1299"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/tss-originals-bloom-women-shirts?gte=2",
+            "customFade src": "",
+            "text-left": "TSS Originals: Bloom",
+            "listprice": "Women Shirts",
+            "offer": "₹ 1299"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/solid-boyfriend-shirt-hot-pink?gte=2",
+            "customFade src": "",
+            "text-left": "Solids: Hot Pink",
+            "listprice": "Women Boyfriend Shirts",
+            "offer": "₹ 1199"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/solids-lime-boyfriend-shirt-womens?gte=2",
+            "customFade src": "",
+            "text-left": "Cotton Linen : Lime",
+            "listprice": "Women Boyfriend Shirts",
+            "offer": "₹ 1299"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/solids-earthy-rust-womens-boyfriend-shirts?gte=2",
+            "customFade src": "",
+            "text-left": "Cotton Linen: Earthy Rust",
+            "listprice": "Women Boyfriend Shirts",
+            "offer": "₹ 1199"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/looney-tunes-indie-vibes-women-oversized-shirts?gte=2",
+            "customFade src": "",
+            "text-left": "Looney Tunes: Indie Vibes",
+            "listprice": "Women Oversized Shirts",
+            "offer": "₹ 1499"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/solids-lavender-boyfriend-shirt-womens?gte=2",
+            "customFade src": "",
+            "text-left": "Cotton Linen : Lavender",
+            "listprice": "Women Boyfriend Shirts",
+            "offer": "₹ 1299"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/harry-potter-doodle-womens-full-sleeve-shirt?gte=2",
+            "customFade src": "",
+            "text-left": "Harry Potter: Doodle",
+            "listprice": "Women Shirts",
+            "offer": "₹ 1099"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/plaid-peach-wine-unisex-shirt?gte=2",
+            "customFade src": "",
+            "text-left": "Plaid: Peach Wine",
+            "listprice": "Unisex Shirts",
+            "offer": "₹ 1299"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/naruto-sasuke-of-the-uchiha-unisex-tshirt?gte=2",
+            "customFade src": "",
+            "text-left": "Naruto: Sasuke Of The Uchiha",
+            "listprice": "Unisex Shirts",
+            "offer": "₹ 1499"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/peanuts-comic-print-boyfriend-shirt-womens?gte=2",
+            "customFade src": "",
+            "text-left": "Peanuts: Comic Print",
+            "listprice": "Women Boyfriend Shirts",
+            "offer": "₹ 1199"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/solids-lime-punch-boyfriend-shirt-womens?gte=2",
+            "customFade src": "",
+            "text-left": "Solids: Lime Punch",
+            "listprice": "Women Boyfriend Shirts",
+            "offer": "₹ 1299"
+        }
+    ],
+    "mens": [{
+            "productlist href": "https://www.thesouledstore.com/product/solid-white-men-tshirt?gte=1",
+            "text-left": "Solid: White",
+            "listprice": "Jerseys",
+            "offer": "₹ 499",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/oversized-t-shirts-bugs-bunny-dayum?gte=1",
+            "text-left": "Bugs Bunny: Dayum",
+            "listprice": "Oversized T-Shirts",
+            "offer": "₹ 999",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/men-hooded-t-shirts-solids-berry?gte=1",
+            "text-left": "Solid: Berry",
+            "listprice": "Hooded T-Shirts",
+            "offer": "₹ 799",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/solid-mi-blue-men-tshirts?gte=1",
+            "text-left": "Solid: MI blue",
+            "listprice": "T-Shirts",
+            "offer": "₹ 399",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/spider-man-2099-t-shirts?gte=1",
+            "text-left": "Spider-Man: 2099",
+            "listprice": "T-Shirts",
+            "offer": "₹ 549",
+            "product-price": "₹ 699",
+            "percentage-off": "₹\n                    150 OFF"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/batman-the-bat-sigil-oversized-tshirt?gte=1",
+            "text-left": "Batman: The Bat Sigil",
+            "listprice": "Oversized T-Shirts",
+            "offer": "₹ 899",
+            "product-price": "₹ 999",
+            "percentage-off": "₹\n                    100 OFF"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/naruto-ghost-of-uchiha-oversized-t-shirts?gte=1",
+            "text-left": "Naruto: Ghost of Uchiha",
+            "listprice": "Oversized T-Shirts",
+            "offer": "₹ 999",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/men-oversized-hooded-t-shirt-solids-off-white-and-yellow?gte=1",
+            "text-left": "Solids: Off White and Yellow",
+            "listprice": "Hooded T-Shirts",
+            "offer": "₹ 899",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/spider-man-radioactive-oversized-full-sleeve-tshirts?gte=1",
+            "text-left": "Spider-Man: Radioactive",
+            "listprice": "Oversized Full Sleeve T-Shirts",
+            "offer": "₹ 999",
+            "product-price": "₹ 1199",
+            "percentage-off": "₹\n                    200 OFF"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/naruto-itachi-uchiha-oversized-t-shirts?gte=1",
+            "text-left": "Naruto: Itachi Uchiha",
+            "listprice": "Oversized T-Shirts",
+            "offer": "₹ 999",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/the-godfather-five-families-t-shirts?gte=1",
+            "text-left": "The Godfather: Five Families",
+            "listprice": "T-Shirts",
+            "offer": "₹ 599",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/batman-the-dark-knight-hooded-tshirt?gte=1",
+            "text-left": "Batman: The Dark Knight",
+            "listprice": "Hooded T-Shirts",
+            "offer": "₹ 1199",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/batman-madness-in-gotham-mens-oversized-tshirt?gte=1",
+            "text-left": "Batman: Madness In Gotham",
+            "listprice": "Oversized T-Shirts",
+            "offer": "₹ 799",
+            "product-price": "₹ 999",
+            "percentage-off": "₹\n                    200 OFF"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/spider-man-across-the-spider-verse-oversized-full-sleeve-tshirts?gte=1",
+            "text-left": "Spider-Man: Across The Spider-Verse",
+            "listprice": "Oversized Full Sleeve T-Shirts",
+            "offer": "₹ 999",
+            "product-price": "₹ 1199",
+            "percentage-off": "₹\n                    200 OFF"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/batman-wayne-industries-drop-cut-mens-tshirt?gte=1",
+            "text-left": "Batman: Wayne Industries",
+            "listprice": "Drop Cut T-Shirts",
+            "offer": "₹ 699",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/batman-guardian-of-gotham-oversized-t-shirts?gte=1",
+            "text-left": "Batman: Guardian of Gotham",
+            "listprice": "Oversized T-Shirts",
+            "offer": "₹ 999",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/fighter-ace-of-altitude-oversized-t-shirts?gte=1",
+            "text-left": "Fighter: Ace Of Altitude",
+            "listprice": "Oversized T-Shirts",
+            "offer": "₹ 999",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/solids-black-tshirt?gte=1",
+            "text-left": "Solids: Black",
+            "listprice": "T-Shirts",
+            "offer": "₹ 449",
+            "product-price": "₹ 599",
+            "percentage-off": "₹\n                    150 OFF"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/solids-coffee-brown-t-shirts?gte=1",
+            "text-left": "Classic Sustainable Tee: Coffee Brown",
+            "listprice": "T-Shirts",
+            "offer": "₹ 499",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/spider-man-thwip-hooded-tshirt?gte=1",
+            "text-left": "Spider-Man: Thwip",
+            "listprice": "Hooded T-Shirts",
+            "offer": "₹ 799",
+            "product-price": "₹ 999",
+            "percentage-off": "₹\n                    200 OFF"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/the-godfather-honor-oversized-full-sleeve-t-shirts?gte=1",
+            "text-left": "The Godfather: Honor",
+            "listprice": "Oversized Full Sleeve T-Shirts",
+            "offer": "₹ 999",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/spider-man-across-the-spider-verse-oversized-tshirt?gte=1",
+            "text-left": "Spider-Man: Across The Spider-Verse",
+            "listprice": "Oversized T-Shirts",
+            "offer": "₹ 799",
+            "product-price": "₹ 999",
+            "percentage-off": "₹\n                    200 OFF"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/spiderman-miles-logo-t-shirts?gte=1",
+            "text-left": "Spider-Man: Miles Logo",
+            "listprice": "T-Shirts",
+            "offer": "₹ 499",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/batman-gothams-saviour-oversized-tshirts?gte=1",
+            "text-left": "Batman: Gotham's Saviour",
+            "listprice": "Oversized T-Shirts",
+            "offer": "₹ 999",
+            "product-price": "",
+            "percentage-off": ""
+        }
+    ],
+    "kids": [{
+            "productlist href": "https://www.thesouledstore.com/product/tss-originals-aurora-girls-dresses?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1689929505_4171348.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "TSS Originals: Aurora",
+            "listprice": "Girls Cotton Dresses",
+            "offer": "₹ 649",
+            "product-price": "₹ 699",
+            "percentage-off": "₹\n                    50 OFF"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/harry-potter-hedwig-gathered-dress?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1694177478_2614523.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "Harry Potter: Hedwig",
+            "listprice": "Girls Cotton Gathered Dresses",
+            "offer": "₹ 599",
+            "product-price": "₹ 899",
+            "percentage-off": "₹\n                    300 OFF"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/tss-originals-peach-fuzz-girl-dresses?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1690803083_9478652.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "TSS Originals: Peach Fuzz",
+            "listprice": "Girls Cotton Dresses",
+            "offer": "₹ 899",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/disney-daisy-duck-girls-t-shirt-dress?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1687515674_2216983.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "Disney: Daisy Duck",
+            "listprice": "Girls Cotton T-Shirt Dresses",
+            "offer": "₹ 499",
+            "product-price": "₹ 799",
+            "percentage-off": "₹\n                    300 OFF"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/dexter-trouble-maker-gathered-dress?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1687516736_9324695.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "Dexter: Trouble Maker",
+            "listprice": "Girls Cotton Gathered Dresses",
+            "offer": "₹ 599",
+            "product-price": "₹ 899",
+            "percentage-off": "₹\n                    300 OFF"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/lilo-and-stitch-little-monster-girls-polo-dresses?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1696504109_2333212.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "Lilo & Stitch: Little Monster",
+            "listprice": "Girls Cotton Polo Dresses",
+            "offer": "₹ 449",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/dc-supergirls-girls-dresses?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1696578705_1723734.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "DC: Supergirls",
+            "listprice": "Girls Cotton Dresses",
+            "offer": "₹ 499",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/tss-originals-parakeet-girls-dresses?gte=2",
+            "customFade src": "https://prod-img.thesouledstore.com/public/theSoul/uploads/catalog/product/1705741059_1932334.jpg?format=webp&w=300&dpr=1.5",
+            "text-left": "TSS Originals: Parakeet",
+            "listprice": "Girls Cotton Dresses",
+            "offer": "₹ 599",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/disney-rapunzel-girls-dresses?gte=2",
+            "customFade src": "",
+            "text-left": "Disney: Rapunzel",
+            "listprice": "Girls Cotton Dresses",
+            "offer": "₹ 449",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/winnie-the-pooh-vibes-girls-dress?gte=2",
+            "customFade src": "",
+            "text-left": "Winnie The Pooh: Vibes",
+            "listprice": "Girls Cotton Dresses",
+            "offer": "₹ 449",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/the-aristocats-marie-girls-dress?gte=2",
+            "customFade src": "",
+            "text-left": "The Aristocats: Marie",
+            "listprice": "Girls Cotton Dresses",
+            "offer": "₹ 449",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/disney-princesses-girls-dresses?gte=2",
+            "customFade src": "",
+            "text-left": "Disney: Princesses",
+            "listprice": "Girls Cotton Dresses",
+            "offer": "₹ 599",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/disney-born-to-lead-girls-t-shirt-dress?gte=2",
+            "customFade src": "",
+            "text-left": "Disney: Born To Lead",
+            "listprice": "Girls Cotton T-Shirt Dresses",
+            "offer": "₹ 499",
+            "product-price": "₹ 799",
+            "percentage-off": "₹\n                    300 OFF"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/disney-princess-aurora-girls-dresses?gte=2",
+            "customFade src": "",
+            "text-left": "Disney: Princess Aurora",
+            "listprice": "Girls Cotton Dresses",
+            "offer": "₹ 449",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/tss-originals-fun-days?gte=2",
+            "customFade src": "",
+            "text-left": "TSS Originals: Fun Days",
+            "listprice": "Girls Cotton T-Shirt Dresses",
+            "offer": "₹ 399",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/peanuts-snoopy-floral-pattern-gathered-dress?gte=2",
+            "customFade src": "",
+            "text-left": "Peanuts: Snoopy Floral Pattern",
+            "listprice": "Girls Cotton Gathered Dresses",
+            "offer": "₹ 599",
+            "product-price": "₹ 899",
+            "percentage-off": "₹\n                    300 OFF"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/the-lion-king-simba-pattern-gathered-dress?gte=2",
+            "customFade src": "",
+            "text-left": "The Lion King: Simba Pattern",
+            "listprice": "Girls Cotton Gathered Dresses",
+            "offer": "₹ 599",
+            "product-price": "₹ 899",
+            "percentage-off": "₹\n                    300 OFF"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/tss-originals-strawberry-gathered-dress?gte=2",
+            "customFade src": "",
+            "text-left": "TSS Originals: Strawberry",
+            "listprice": "Girls Cotton Gathered Dresses",
+            "offer": "₹ 599",
+            "product-price": "₹ 899",
+            "percentage-off": "₹\n                    300 OFF"
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/winnie-the-pooh-bee-you-girls-dress?gte=2",
+            "customFade src": "",
+            "text-left": "Winnie The Pooh: Bee You",
+            "listprice": "Girls Cotton Dresses",
+            "offer": "₹ 449",
+            "product-price": "",
+            "percentage-off": ""
+        },
+        {
+            "productlist href": "https://www.thesouledstore.com/product/looney-tunes-stay-cool-gathered-dress?gte=2",
+            "customFade src": "",
+            "text-left": "Looney Tunes: Stay Cool",
+            "listprice": "Girls Cotton T-Shirt Dresses",
+            "offer": "₹ 499",
+            "product-price": "₹ 799",
+            "percentage-off": "₹\n                    300 OFF"
+        }
+    ],
+    "users": [{
+            "id": 1,
+            "name": "John Doe",
+            "email": "john.doe@example.com",
+            "age": 25
+        },
+        {
+            "id": 2,
+            "name": "Jane Smith",
+            "email": "jane.smith@example.com",
+            "age": 30
+        },
+        {
+            "id": 3,
+            "name": "Bob Johnson",
+            "email": "bob.johnson@example.com",
+            "age": 22
+        }
+    ],
+    "cart": [
+
+    ],
+    "wishList": [
+
+
+    ],
+    "ordered": []
 }
