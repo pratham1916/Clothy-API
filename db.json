@@ -25,7 +25,7 @@
       "price": 19.99,
       "size": ["S", "M", "L", "XL"],
       "color": ["Black", "White", "Grey"],
-      "imageURL": "https://placeholder.com/images/menswear/tshirt1.jpg",
+      "imageURL": "https://images.lvrcdn.com/Big/c/2023/09/23/aa6e328c-f1a8-4fc4-989a-73526bcd2a13/6b788638-9fbc-4ea5-83c3-b42210a3102620230925120242.JPG",
       "description": "A classic cotton t-shirt perfect for everyday wear.",
       "stock": 100,
       "rating": 4.5
@@ -37,7 +37,7 @@
       "price": 59.99,
       "size": ["S", "M", "L", "XL"],
       "color": ["Dark Blue", "Light Blue", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/jeans1.jpg",
+      "imageURL": "https://cdn.media.amplience.net/i/truworths/prod3097171_1?fmt=auto&$pdp-main-mobile$",
       "description": "High-quality denim jeans with a slim fit design.",
       "stock": 80,
       "rating": 4.7
@@ -49,7 +49,7 @@
       "price": 120.00,
       "size": ["M", "L", "XL", "XXL"],
       "color": ["Black", "Brown"],
-      "imageURL": "https://placeholder.com/images/menswear/jacket1.jpg",
+      "imageURL": "https://www.voganow.com/cdn/shop/files/BBGJ-1121-01-SL_1.jpg?v=1700306888",
       "description": "Authentic leather biker jacket for the ultimate road warrior.",
       "stock": 50,
       "rating": 4.8
@@ -61,7 +61,7 @@
       "price": 45.99,
       "size": ["S", "M", "L", "XL"],
       "color": ["Navy", "Grey", "Red"],
-      "imageURL": "https://placeholder.com/images/menswear/sweater1.jpg",
+      "imageURL": "https://assets.burberry.com/is/image/Burberryltd/5242AAD7-EF71-4864-A289-7B69B7862296?$BBY_V3_SL_1$&wid=1501&hei=1500",
       "description": "A warm and cozy wool sweater for chilly evenings.",
       "stock": 70,
       "rating": 4.6
@@ -73,7 +73,7 @@
       "price": 29.99,
       "size": ["S", "M", "L", "XL"],
       "color": ["Khaki", "Olive", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/shorts1.jpg",
+      "imageURL": "https://contents.mediadecathlon.com/p1823349/a488375539f5b5fe6eeb8789a8836e45/p1823349.jpg",
       "description": "Durable cargo shorts with plenty of pocket space.",
       "stock": 85,
       "rating": 4.3
@@ -85,7 +85,7 @@
       "price": 89.99,
       "size": ["7", "8", "9", "10", "11"],
       "color": ["Black", "Brown"],
-      "imageURL": "https://placeholder.com/images/menswear/footwear1.jpg",
+      "imageURL": "https://tungstenshoes.in/cdn/shop/products/4_069b670e-e036-4656-9c13-328498061c07.png?v=1705037822",
       "description": "Sturdy and stylish leather boots for any occasion.",
       "stock": 60,
       "rating": 4.4
@@ -97,7 +97,7 @@
       "price": 34.99,
       "size": ["S", "M", "L", "XL"],
       "color": ["Black", "Grey", "White"],
-      "imageURL": "https://placeholder.com/images/menswear/underwear1.jpg",
+      "imageURL": "https://5.imimg.com/data5/SELLER/Default/2022/9/IW/CQ/GI/240834/hanes-mens-3-pack-boxer-briefs-500x500.jpeg",
       "description": "Comfortable and breathable boxer briefs in a pack of three.",
       "stock": 200,
       "rating": 4.5
@@ -109,7 +109,7 @@
       "price": 39.99,
       "size": ["S", "M", "L", "XL"],
       "color": ["Light Blue", "Dark Blue", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/jeans1.jpg",
+      "imageURL": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/13249736/2022/8/26/51ca51a2-3e50-4427-bd05-9b54f6ac1de51661504890610-Roadster-Men-Blue-Skinny-Fit-Light-Fade-Stretchable-Jeans-80-1.jpg",
       "description": "Stylish slim fit jeans for a modern look.",
       "stock": 90,
       "rating": 4.4
@@ -121,7 +121,7 @@
       "price": 29.99,
       "size": ["S", "M", "L", "XL", "XXL"],
       "color": ["Grey", "Black", "Maroon"],
-      "imageURL": "https://placeholder.com/images/menswear/hoodie1.jpg",
+      "imageURL": "https://images-cdn.ubuy.co.in/653a53881e09ab09cf3a8a1f-gurunvani-contrast-color-pullover-hoodie.jpg",
       "description": "Comfortable pullover hoodie, perfect for casual days.",
       "stock": 85,
       "rating": 4.6
@@ -133,7 +133,7 @@
       "price": 59.99,
       "size": ["M", "L", "XL", "XXL"],
       "color": ["Navy", "Black", "Olive"],
-      "imageURL": "https://placeholder.com/images/menswear/jacket1.jpg",
+      "imageURL": "https://images-cdn.ubuy.co.in/633b9f5480782759d542a601-winter-jackets-for-men-waterproof-jacket.jpg",
       "description": "Durable, waterproof jacket designed for outdoor adventures.",
       "stock": 75,
       "rating": 4.7
@@ -145,7 +145,7 @@
       "price": 39.99,
       "size": ["M", "L", "XL"],
       "color": ["Gray", "Black", "Blue"],
-      "imageURL": "https://placeholder.com/images/menswear/sweatshirt1.jpg",
+      "imageURL": "https://eshop.techx.org.in/wp-content/uploads/2023/07/800-7.jpg",
       "description": "Comfortable, versatile hoodie perfect for casual wear or light workouts.",
       "stock": 60,
       "rating": 4.5
@@ -157,7 +157,7 @@
       "price": 29.99,
       "size": ["M", "L", "XL"],
       "color": ["White", "Navy", "Khaki"],
-      "imageURL": "https://placeholder.com/images/menswear/shirt1.jpg",
+      "imageURL": "https://5.imimg.com/data5/SELLER/Default/2021/6/HD/SN/ZJ/86091887/mens-cotton-casual-shirts.jpg",
       "description": "Breathable cotton shirt, ideal for both work and weekend outings.",
       "stock": 80,
       "rating": 4.6
@@ -169,7 +169,7 @@
       "price": 49.99,
       "size": ["M", "L", "XL", "XXL"],
       "color": ["Black", "White", "Light Blue"],
-      "imageURL": "https://placeholder.com/images/menswear/formalshirt1.jpg",
+      "imageURL": "https://rukminim2.flixcart.com/image/550/650/xif0q/shirt/x/m/n/40-men-regular-slim-fit-solid-button-down-collar-formal-shirt-original-imagf4mn9zg7qrmf-bb.jpeg?q=90&crop=false",
       "description": "Elegant slim fit shirt designed for formal occasions and business meetings.",
       "stock": 50,
       "rating": 4.8
@@ -181,7 +181,7 @@
       "price": 59.99,
       "size": ["M", "L", "XL", "XXL"],
       "color": ["Dark Blue", "Light Blue", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/jeans1.jpg",
+      "imageURL": "https://liftkaro.in/wp-content/uploads/2024/01/Stone-wash-01-1.webp",
       "description": "Durable and stylish jeans suitable for everyday wear.",
       "stock": 70,
       "rating": 4.5
@@ -205,7 +205,7 @@
       "price": 34.99,
       "size": ["M", "L", "XL"],
       "color": ["Olive", "Camel", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/shorts1.jpg",
+      "imageURL": "https://images-cdn.ubuy.co.in/634d03f3ecb4942e2707495a-nzwiluns-cargo-shorts-for-men-outdoor.jpg",
       "description": "Relaxed fit cargo shorts with multiple pockets for outdoor activities.",
       "stock": 55,
       "rating": 4.3
@@ -217,7 +217,7 @@
       "price": 69.99,
       "size": ["M", "L", "XL", "XXL"],
       "color": ["Black", "Olive", "Navy"],
-      "imageURL": "https://placeholder.com/images/menswear/outerwear1.jpg",
+      "imageURL": "https://m.media-amazon.com/images/I/81Tr+XYY91L.jpg",
       "description": "A trendy and versatile bomber jacket, great for layering in cooler weather.",
       "stock": 45,
       "rating": 4.7
@@ -229,7 +229,7 @@
       "price": 199.99,
       "size": ["M", "L", "XL"],
       "color": ["Navy", "Gray", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/suit1.jpg",
+      "imageURL": "https://assets.myntassets.com/h_1440,q_100,w_1080/v1/assets/images/2324184/2017/12/28/11514459523739-Wills-Lifestyle-Grey-Self-Design-Slim-Fit-Single-Breasted-Formal-Suit-1221514459523537-1.jpg",
       "description": "Sleek and modern suit for professional settings or special occasions.",
       "stock": 40,
       "rating": 4.9
@@ -241,7 +241,7 @@
       "price": 24.99,
       "size": ["M", "L", "XL"],
       "color": ["Black", "Gray", "White"],
-      "imageURL": "https://placeholder.com/images/menswear/underwear1.jpg",
+      "imageURL": "https://imagescdn.thecollective.in/img/app/product/9/971580-12840248.jpg",
       "description": "Comfortable, breathable boxer briefs in a convenient 3-pack.",
       "stock": 100,
       "rating": 4.2
@@ -253,7 +253,7 @@
       "price": 19.99,
       "size": ["One Size"],
       "color": ["Brown", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/accessory1.jpg",
+      "imageURL": "https://www.artisansoul.in/cdn/shop/products/2304.JPG_1_2000x.jpg?v=1644908692",
       "description": "Classic leather belt, an essential accessory for any wardrobe.",
       "stock": 85,
       "rating": 4.6
@@ -265,7 +265,7 @@
       "price": 49.99,
       "size": ["M", "L", "XL", "XXL"],
       "color": ["Burgundy", "Navy", "Gray"],
-      "imageURL": "https://placeholder.com/images/menswear/sweater1.jpg",
+      "imageURL": "https://assets.ajio.com/medias/sys_master/root/20230904/M9zS/64f6083eafa4cf41f5a3aa79/-473Wx593H-410392682-250-MODEL.jpg",
       "description": "Warm and cozy wool sweater perfect for chilly days.",
       "stock": 50,
       "rating": 4.5
@@ -277,7 +277,7 @@
       "price": 89.99,
       "size": ["8", "9", "10", "11"],
       "color": ["Black", "Brown"],
-      "imageURL": "https://placeholder.com/images/menswear/boots1.jpg",
+      "imageURL": "https://i.pinimg.com/474x/2c/23/e3/2c23e3b33028a736b3177ca8c0201d83.jpg",
       "description": "Durable leather boots, ideal for both outdoor adventures and casual outings.",
       "stock": 40,
       "rating": 4.7
@@ -301,7 +301,7 @@
       "price": 199.99,
       "size": ["One Size"],
       "color": ["Silver", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/watch1.jpg",
+      "imageURL": "https://m.media-amazon.com/images/I/815lPWcIyrL._AC_UY1000_.jpg",
       "description": "Elegant stainless steel watch with a minimalist design.",
       "stock": 30,
       "rating": 4.8
@@ -313,7 +313,7 @@
       "price": 29.99,
       "size": ["M", "L"],
       "color": ["Black", "Brown"],
-      "imageURL": "https://placeholder.com/images/menswear/gloves1.jpg",
+      "imageURL": "https://www.jiomart.com/images/product/original/rvijms8cse/sellnship-black-leather-gloves-for-winter-warm-anti-slip-with-protective-hand-lining-free-size-product-images-orvijms8cse-p590832693-1-202110241345.jpg?im=Resize=(1000,1000)",
       "description": "Premium leather gloves for warmth and style during the winter season.",
       "stock": 55,
       "rating": 4.4
@@ -325,7 +325,7 @@
       "price": 119.99,
       "size": ["One Size"],
       "color": ["Brown", "Black"],
-      "imageURL": "https://placeholder.com/images/menswear/bag1.jpg",
+      "imageURL": "https://m.media-amazon.com/images/I/81lapYdx4lL.jpg",
       "description": "Stylish and functional leather messenger bag for the modern man.",
       "stock": 25,
       "rating": 4.6
@@ -349,7 +349,7 @@
       "price": 49.99,
       "size": ["One Size"],
       "color": ["Gold Frame", "Black Frame"],
-      "imageURL": "https://placeholder.com/images/menswear/sunglasses1.jpg",
+      "imageURL": "https://m.media-amazon.com/images/I/91VqGz-isPL._AC_UY1100_.jpg",
       "description": "Classic aviator sunglasses with polarized lenses for superior sun protection.",
       "stock": 75,
       "rating": 4.7
@@ -361,7 +361,7 @@
       "price": 59.99,
       "size": ["50ml"],
       "color": ["Clear"],
-      "imageURL": "https://placeholder.com/images/menswear/perfume1.jpg",
+      "imageURL": "https://upload.wikimedia.org/wikipedia/commons/d/db/Bottles_of_Eau_de_Toilette.jpg",
       "description": "A refreshing and sophisticated scent for the modern man.",
       "stock": 60,
       "rating": 4.5
@@ -369,13 +369,25 @@
   ],
   "womens":[
     {
+      "id": 1,
+      "category": "Bikinis",
+      "name": "High-Waisted Bikini Set",
+      "price": 34.99,
+      "size": ["S", "M", "L"],
+      "color": ["Red", "Black", "Blue"],
+      "imageURL": "https://www.thebeachcompany.in/cdn/shop/products/WhatsAppImage2023-03-16at5.03.50PM_800x.jpg?v=1679044815",
+      "description": "Chic high-waisted bikini set for a flattering beach-ready look.",
+      "stock": 85,
+      "rating": 4.8
+    },
+    {
       "id": 2,
       "category": "Sweatshirts",
       "name": "Cozy Cotton Sweatshirt",
       "price": 39.99,
       "size": ["S", "M", "L", "XL"],
       "color": ["Grey", "Pink", "White"],
-      "imageURL": "https://placeholder.com/images/womenswear/sweatshirt1.jpg",
+      "imageURL": "https://i.pinimg.com/564x/fb/30/1e/fb301e25221e2583fc4742a46b028cd2.jpg",
       "description": "Soft and cozy cotton sweatshirt for casual wear.",
       "stock": 50,
       "rating": 4.5
@@ -387,7 +399,7 @@
       "price": 45.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["White", "Blue", "Black"],
-      "imageURL": "https://placeholder.com/images/womenswear/formalshirt1.jpg",
+      "imageURL": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/19577030/2022/8/20/71b290d7-9b8b-404a-8579-a5057e6b0bc31661007459044StyleQuotientWomenWhiteClassicCasualShirt1.jpg",
       "description": "Crisp and elegant white formal shirt for professional settings.",
       "stock": 60,
       "rating": 4.8
@@ -399,7 +411,7 @@
       "price": 49.99,
       "size": ["S", "M", "L"],
       "color": ["Red Floral", "Blue Floral", "Green Floral"],
-      "imageURL": "https://placeholder.com/images/womenswear/frock1.jpg",
+      "imageURL": "https://cdn.shopaccino.com/adya-coutures/products/smp09201-198326_m.jpg?v=502",
       "description": "Light and airy floral frock perfect for summer outings.",
       "stock": 40,
       "rating": 4.6
@@ -411,7 +423,7 @@
       "price": 65.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Black", "Navy", "Burgundy"],
-      "imageURL": "https://placeholder.com/images/womenswear/shortdress1.jpg",
+      "imageURL": "https://www.alamodelabel.in/cdn/shop/files/image_c7ea1d85-0c90-4efb-b661-8ff2e38730a7_600x.jpg?v=1689689393",
       "description": "Chic and elegant dress suitable for cocktail parties.",
       "stock": 30,
       "rating": 4.9
@@ -423,7 +435,7 @@
       "price": 35.99,
       "size": ["M", "L", "XL"],
       "color": ["White", "Beige", "Sky Blue"],
-      "imageURL": "https://placeholder.com/images/womenswear/shirt1.jpg",
+      "imageURL": "https://i.etsystatic.com/20212769/r/il/766b8e/3852089229/il_570xN.3852089229_b3oe.jpg",
       "description": "Breathable linen shirt for a casual, relaxed look.",
       "stock": 55,
       "rating": 4.4
@@ -435,7 +447,7 @@
       "price": 55.99,
       "size": ["S", "M", "L", "XL"],
       "color": ["Ivory", "Champagne", "Black"],
-      "imageURL": "https://placeholder.com/images/womenswear/blouse1.jpg",
+      "imageURL": "https://www.abhishti.com/cdn/shop/products/4_a0765bb0-ee65-47e2-bbd3-f70635fd571a.jpg?v=1665908107",
       "description": "Luxurious silk blouse for an elegant appearance.",
       "stock": 45,
       "rating": 4.7
@@ -447,7 +459,7 @@
       "price": 42.99,
       "size": ["S", "M", "L"],
       "color": ["Navy", "Grey", "Maroon"],
-      "imageURL": "https://placeholder.com/images/womenswear/skirt1.jpg",
+      "imageURL": "https://asset1.cxnmarksandspencer.com/is/image/mands/SD_01_T69_7375R_M0_X_EC_0?$PDP_MAIN_CAR_SM$",
       "description": "Stylish midi skirt with elegant pleats for a versatile look.",
       "stock": 50,
       "rating": 4.5
@@ -459,7 +471,7 @@
       "price": 49.99,
       "size": ["XS", "S", "M", "L", "XL"],
       "color": ["Dark Denim", "Light Denim", "Black"],
-      "imageURL": "https://placeholder.com/images/womenswear/jeans1.jpg",
+      "imageURL": "https://img01.ztat.net/article/spp-media-p1/5c11466393e74bf4babc041a86304761/947bbd0d10d04e58922885c0a805a93b.jpg",
       "description": "Flattering high-waisted skinny jeans in versatile colors.",
       "stock": 65,
       "rating": 4.6
@@ -471,7 +483,7 @@
       "price": 25.99,
       "size": ["S", "M", "L", "XL"],
       "color": ["White Print", "Black Print", "Grey"],
-      "imageURL": "https://placeholder.com/images/womenswear/tshirt1.jpg",
+      "imageURL": "https://i0.wp.com/www.gypsystreet.in/wp-content/uploads/2021/04/canh-2.jpg?fit=2000%2C2000&ssl=1",
       "description": "Comfortable cotton tee with eye-catching graphic design.",
       "stock": 80,
       "rating": 4.3
@@ -483,7 +495,7 @@
       "price": 35.99,
       "size": ["S", "M", "L", "XL"],
       "color": ["Black", "Navy", "Grey"],
-      "imageURL": "https://placeholder.com/images/womenswear/leggings1.jpg",
+      "imageURL": "https://i.pinimg.com/736x/83/31/da/8331dafa4e099c1e15168496a4d9bdc4.jpg",
       "description": "High-performance leggings for workout and casual wear.",
       "stock": 70,
       "rating": 4.8
@@ -495,7 +507,7 @@
       "price": 45.99,
       "size": ["S", "M", "L"],
       "color": ["Gray", "Black", "White"],
-      "imageURL": "https://placeholder.com/images/womenswear/sweatshirt1.jpg",
+      "imageURL": "https://cdn.pixelspray.io/v2/black-bread-289bfa/woTKH5/wrkr/t.resize(h:1000,w:820)/data/Superdry/19-nov-2022/410354246019_1.jpg",
       "description": "Comfortable cotton blend hooded sweatshirt perfect for casual wear.",
       "stock": 60,
       "rating": 4.5
@@ -507,7 +519,7 @@
       "price": 39.99,
       "size": ["S", "M", "L", "XL"],
       "color": ["Blue", "White", "Pink"],
-      "imageURL": "https://placeholder.com/images/womenswear/shirt1.jpg",
+      "imageURL": "https://rukminim2.flixcart.com/image/550/650/xif0q/shirt/j/c/y/xl-women-shirts-metronaut-original-imagum8ncukv2bvj.jpeg?q=90&crop=true",
       "description": "Lightweight and breathable, ideal for both office and day out.",
       "stock": 50,
       "rating": 4.6
@@ -519,7 +531,7 @@
       "price": 55.99,
       "size": ["M", "L", "XL"],
       "color": ["Black", "Ivory", "Red"],
-      "imageURL": "https://placeholder.com/images/womenswear/formalshirt1.jpg",
+      "imageURL": "https://i.etsystatic.com/12068282/r/il/33a13a/1650844737/il_570xN.1650844737_p0lt.jpg",
       "description": "Silk blend blouse for a polished and professional look.",
       "stock": 40,
       "rating": 4.8
@@ -531,7 +543,7 @@
       "price": 49.99,
       "size": ["S", "M", "L"],
       "color": ["Green Floral", "Blue Floral", "Pink Floral"],
-      "imageURL": "https://placeholder.com/images/womenswear/frock1.jpg",
+      "imageURL": "https://cdn.shopaccino.com/adya-coutures/products/smp09186-723228_m.jpg?v=502",
       "description": "Light and airy, perfect for summer days.",
       "stock": 55,
       "rating": 4.4
@@ -543,7 +555,7 @@
       "price": 65.99,
       "size": ["XS", "S", "M"],
       "color": ["Red", "Black", "Navy"],
-      "imageURL": "https://placeholder.com/images/womenswear/shortdress1.jpg",
+      "imageURL": "https://www.alamodelabel.in/cdn/shop/files/7EF4C17F-8E43-4887-8C2C-71B056C63B82_600x.jpg?v=1706963660",
       "description": "Elegant and perfect for evening events.",
       "stock": 30,
       "rating": 4.9
@@ -555,7 +567,7 @@
       "price": 25.99,
       "size": ["S", "M", "L", "XL"],
       "color": ["White Print", "Black Print", "Yellow Print"],
-      "imageURL": "https://placeholder.com/images/womenswear/tshirt1.jpg",
+      "imageURL": "https://assets.ajio.com/medias/sys_master/root/20230620/wOQk/64921abfd55b7d0c63807d15/-473Wx593H-463315897-green-MODEL.jpg",
       "description": "Soft cotton tee with eye-catching graphics.",
       "stock": 70,
       "rating": 4.3
@@ -567,7 +579,7 @@
       "price": 59.99,
       "size": ["28", "30", "32", "34"],
       "color": ["Dark Denim", "Light Denim", "Black"],
-      "imageURL": "https://placeholder.com/images/womenswear/jeans1.jpg",
+      "imageURL": "https://mirzacdns3.s3.ap-south-1.amazonaws.com/cache/catalog/MAD0934/1-800x800.jpg",
       "description": "Stretch denim for comfort and a flattering fit.",
       "stock": 65,
       "rating": 4.7
@@ -579,7 +591,7 @@
       "price": 42.99,
       "size": ["S", "M", "L"],
       "color": ["Navy", "Beige", "Olive"],
-      "imageURL": "https://placeholder.com/images/womenswear/skirt1.jpg",
+      "imageURL": "https://asset1.cxnmarksandspencer.com/is/image/mands/Metallic-Pleated-Midi-Skirt/SD_10_T83_7190W_XX_X_EC_0?$PDP_IMAGEGRID$&wid=1024&qlt=80",
       "description": "Versatile midi skirt that pairs well with any top.",
       "stock": 45,
       "rating": 4.5
@@ -591,7 +603,7 @@
       "price": 70.99,
       "size": ["S", "M", "L", "XL"],
       "color": ["Black", "Gray", "Navy"],
-      "imageURL": "https://placeholder.com/images/womenswear/blazer1.jpg",
+      "imageURL": "https://img101.urbanic.com/goods-pic/e62c722b199e4d5bb627b6931faa069aUR_w1440_q90",
       "description": "Perfect for a professional setting or dressing up casual outfits.",
       "stock": 50,
       "rating": 4.6
@@ -603,7 +615,7 @@
       "price": 35.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Black", "Gray", "Blue"],
-      "imageURL": "https://placeholder.com/images/womenswear/leggings1.jpg",
+      "imageURL": "https://contents.mediadecathlon.com/p1674117/c2b3965d22c8091ddce8a2edba3d7b2d/p1674117.jpg",
       "description": "Supportive and flexible for all your workout needs.",
       "stock": 80,
       "rating": 4.4
@@ -615,7 +627,7 @@
       "price": 35.99,
       "size": ["S", "M", "L", "XL"],
       "color": ["White", "Black", "Coral"],
-      "imageURL": "https://placeholder.com/images/womenswear/top1.jpg",
+      "imageURL": "https://shaadiwish.com/blog/wp-content/uploads/2022/01/boho-blouse.jpg",
       "description": "Light and airy bohemian blouse perfect for a relaxed, stylish look.",
       "stock": 60,
       "rating": 4.4
@@ -627,7 +639,7 @@
       "price": 29.99,
       "size": ["S", "M", "L"],
       "color": ["Black", "Gray", "Navy"],
-      "imageURL": "https://placeholder.com/images/womenswear/leggings1.jpg",
+      "imageURL": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1580926923-31KRadXLNvL.jpg?crop=1xw:1xh;center,top&resize=980:*",
       "description": "Stretchable and comfortable leggings, ideal for workout sessions.",
       "stock": 70,
       "rating": 4.7
@@ -639,7 +651,7 @@
       "price": 99.99,
       "size": ["S", "M", "L", "XL"],
       "color": ["Camel", "Gray", "Black"],
-      "imageURL": "https://placeholder.com/images/womenswear/coat1.jpg",
+      "imageURL": "https://i.pinimg.com/736x/e8/7c/c9/e87cc9c519ba7f9a12c1b5f88b401398.jpg",
       "description": "Chic woolen coat that combines warmth with style for the winter season.",
       "stock": 30,
       "rating": 4.8
@@ -651,7 +663,7 @@
       "price": 24.99,
       "size": ["S", "M", "L"],
       "color": ["Green Tropical", "Blue Tropical", "Pink Tropical"],
-      "imageURL": "https://placeholder.com/images/womenswear/swimwear1.jpg",
+      "imageURL": "https://www.berrylush.com/cdn/shop/products/1_d74fd7d5-9025-44c5-a15f-265c991540eb.jpg?v=1660642584",
       "description": "Vibrant bikini set with a tropical print, perfect for beach days and pool parties.",
       "stock": 85,
       "rating": 4.5
@@ -663,7 +675,7 @@
       "price": 54.99,
       "size": ["XS", "S", "M", "L", "XL"],
       "color": ["Light Denim", "Dark Denim", "Black"],
-      "imageURL": "https://placeholder.com/images/womenswear/jeans1.jpg",
+      "imageURL": "https://assets.vogue.com/photos/63c17351a426ef92a40af962/master/pass/ede8f045_1183.jpeg",
       "description": "Timeless high-rise jeans that offer both comfort and style.",
       "stock": 50,
       "rating": 4.6
@@ -675,7 +687,7 @@
       "price": 19.99,
       "size": ["One Size"],
       "color": ["Red Floral", "Blue Geometric", "Yellow Paisley"],
-      "imageURL": "https://placeholder.com/images/womenswear/accessory1.jpg",
+      "imageURL": "https://i.etsystatic.com/25156284/r/il/1ad22b/4032752097/il_570xN.4032752097_pp8p.jpg",
       "description": "Add a touch of elegance to any outfit with this luxurious silk scarf.",
       "stock": 90,
       "rating": 4.9
@@ -687,7 +699,7 @@
       "price": 75.99,
       "size": ["S", "M", "L", "XL"],
       "color": ["Navy", "Burgundy", "Emerald"],
-      "imageURL": "https://placeholder.com/images/womenswear/dress1.jpg",
+      "imageURL": "https://www.alamodelabel.in/cdn/shop/files/6B66F81F-D93B-4B26-BDB0-B18DE7FD847F_600x.png?v=1702556514",
       "description": "Stunning maxi dress perfect for formal occasions and evening events.",
       "stock": 40,
       "rating": 4.7
@@ -699,7 +711,7 @@
       "price": 65.99,
       "size": [6, 7, 8, 9, 10],
       "color": ["White", "Black", "Pink"],
-      "imageURL": "https://placeholder.com/images/womenswear/sneakers1.jpg",
+      "imageURL": "https://www.aldoshoes.in/on/demandware.static/-/Sites-aldo_master_catalog/default/dwfec31be8/large/quiltyn741029_1.jpg",
       "description": "Combine fashion and function with these trendy and comfortable athletic sneakers.",
       "stock": 75,
       "rating": 4.5
@@ -723,121 +735,25 @@
       "price": 89.99,
       "size": ["One Size"],
       "color": ["Tan", "Black", "White"],
-      "imageURL": "https://placeholder.com/images/womenswear/handbag1.jpg",
+      "imageURL": "https://michaelkors.scene7.com/is/image/MichaelKors/35H0GU5T9T-7278_1?wid=388&hei=523&op_sharpen=1&resMode=sharp2&qlt=90",
       "description": "Versatile and stylish leather tote bag, perfect for everyday use.",
       "stock": 55,
       "rating": 4.8
-    },
-    {
-      "id": 32,
-      "category": "Cardigans",
-      "name": "Oversized Knit Cardigan",
-      "price": 55.99,
-      "size": ["S", "M", "L", "XL"],
-      "color": ["Beige", "Black", "Gray"],
-      "imageURL": "https://placeholder.com/images/womenswear/cardigan1.jpg",
-      "description": "Cozy oversized cardigan, perfect for layering during colder months.",
-      "stock": 45,
-      "rating": 4.5
-    },
-    {
-      "id": 33,
-      "category": "Boots",
-      "name": "Classic Leather Ankle Boots",
-      "price": 79.99,
-      "size": [6, 7, 8, 9, 10],
-      "color": ["Black", "Brown", "Tan"],
-      "imageURL": "https://placeholder.com/images/womenswear/boots1.jpg",
-      "description": "Versatile leather ankle boots with a comfortable fit for all-day wear.",
-      "stock": 60,
-      "rating": 4.7
-    },
-    {
-      "id": 34,
-      "category": "Sunglasses",
-      "name": "Vintage Style Sunglasses",
-      "price": 25.99,
-      "size": ["One Size"],
-      "color": ["Black", "Brown", "Tortoise"],
-      "imageURL": "https://placeholder.com/images/womenswear/sunglasses1.jpg",
-      "description": "Fashionable vintage-inspired sunglasses to complete any look.",
-      "stock": 80,
-      "rating": 4.6
-    },
-    {
-      "id": 35,
-      "category": "Hats",
-      "name": "Wide Brim Fedora",
-      "price": 29.99,
-      "size": ["One Size"],
-      "color": ["Black", "Gray", "Beige"],
-      "imageURL": "https://placeholder.com/images/womenswear/hat1.jpg",
-      "description": "Elegant wide brim fedora, ideal for adding a touch of sophistication.",
-      "stock": 70,
-      "rating": 4.4
-    },
-    {
-      "id": 36,
-      "category": "Bikinis",
-      "name": "High-Waisted Bikini Set",
-      "price": 34.99,
-      "size": ["S", "M", "L"],
-      "color": ["Red", "Black", "Blue"],
-      "imageURL": "https://placeholder.com/images/womenswear/bikini1.jpg",
-      "description": "Chic high-waisted bikini set for a flattering beach-ready look.",
-      "stock": 85,
-      "rating": 4.8
-    },
-    {
-      "id": 37,
-      "category": "Scarves",
-      "name": "Lightweight Floral Scarf",
-      "price": 17.99,
-      "size": ["One Size"],
-      "color": ["Pink Floral", "Blue Floral", "Yellow Floral"],
-      "imageURL": "https://placeholder.com/images/womenswear/scarf1.jpg",
-      "description": "Add a pop of color with this lightweight, beautifully patterned floral scarf.",
-      "stock": 90,
-      "rating": 4.7
-    },
-    {
-      "id": 38,
-      "category": "Belts",
-      "name": "Leather Waist Belt",
-      "price": 22.99,
-      "size": ["S", "M", "L"],
-      "color": ["Black", "Brown", "Tan"],
-      "imageURL": "https://placeholder.com/images/womenswear/belt1.jpg",
-      "description": "Accentuate your silhouette with this chic leather waist belt.",
-      "stock": 75,
-      "rating": 4.5
-    },
-    {
-      "id": 39,
-      "category": "Gloves",
-      "name": "Elegant Leather Gloves",
-      "price": 45.99,
-      "size": ["S", "M", "L"],
-      "color": ["Black", "Brown", "Red"],
-      "imageURL": "https://placeholder.com/images/womenswear/gloves1.jpg",
-      "description": "Keep your hands warm in style with these elegant leather gloves.",
-      "stock": 55,
-      "rating": 4.6
-    },
-    {
-      "id": 40,
-      "category": "Watches",
-      "name": "Classic Analog Watch",
-      "price": 150.99,
-      "size": ["One Size"],
-      "color": ["Silver", "Gold", "Rose Gold"],
-      "imageURL": "https://placeholder.com/images/womenswear/watch1.jpg",
-      "description": "Timeless analog watch that adds a touch of elegance to any outfit.",
-      "stock": 40,
-      "rating": 4.9
     }
   ],
   "kids":[
+    {
+      "id": 1,
+      "category": "Sweaters",
+      "name": "Quarter-Zip Merino Wool Sweater",
+      "price": 59.99,
+      "size": ["M", "L", "XL"],
+      "color": ["Green", "Blue", "Red"],
+      "imageURL": "https://n.nordstrommedia.com/id/sr3/0900ba22-66e6-42c7-b091-7972dcd73268.jpeg?h=365&w=240&dpr=2",
+      "description": "Soft and breathable Merino wool sweater with a convenient quarter-zip closure.",
+      "stock": 30,
+      "rating": 4.6
+    },
     {
       "id": 2,
       "category": "Sweatshirts",
@@ -845,7 +761,7 @@
       "price": 19.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Red", "Blue", "Grey"],
-      "imageURL": "https://placeholder.com/images/kidswear/sweatshirt1.jpg",
+      "imageURL": "https://m.media-amazon.com/images/I/71jGXm40edL._AC_UY1100_.jpg",
       "description": "Soft and cozy fleece sweatshirt for everyday comfort.",
       "stock": 50,
       "rating": 4.5
@@ -857,7 +773,7 @@
       "price": 14.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["White", "Light Blue", "Pink"],
-      "imageURL": "https://placeholder.com/images/kidswear/shirt1.jpg",
+      "imageURL": "https://5.imimg.com/data5/SELLER/Default/2023/5/309623825/HQ/RZ/TK/3769275/1-4--500x500.jpg",
       "description": "Lightweight cotton shirt perfect for any occasion.",
       "stock": 60,
       "rating": 4.6
@@ -869,7 +785,7 @@
       "price": 22.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["White", "Black", "Navy"],
-      "imageURL": "https://placeholder.com/images/kidswear/formalshirt1.jpg",
+      "imageURL": "https://5.imimg.com/data5/SELLER/Default/2022/12/YG/VX/FE/180888643/new-product-500x500.jpeg",
       "description": "Elegant dress shirt for special occasions.",
       "stock": 40,
       "rating": 4.8
@@ -881,7 +797,7 @@
       "price": 24.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Khaki", "Navy", "Black"],
-      "imageURL": "https://placeholder.com/images/kidswear/pants1.jpg",
+      "imageURL": "https://image.made-in-china.com/2f0j00TVZrgpJGgdul/Cotton-Pants-for-2-10-Years-Old-Solid-Boys-Girls-Casual-Sport-Pants-Jogging-Kids-Trousers.webp",
       "description": "Comfortable and durable cotton pants for everyday wear.",
       "stock": 55,
       "rating": 4.5
@@ -893,7 +809,7 @@
       "price": 29.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Dark Blue", "Light Blue", "Black"],
-      "imageURL": "https://placeholder.com/images/kidswear/jeans1.jpg",
+      "imageURL": "https://image.made-in-china.com/202f0j00ZjEhsRgqAvcb/Vintage-Selvedge-Trousers-for-Children-Kids-Boys-Stretch-Jeans-Light-Blue-Trousers.webp",
       "description": "Versatile stretch jeans with a comfortable fit.",
       "stock": 65,
       "rating": 4.7
@@ -905,7 +821,7 @@
       "price": 25.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Pink Floral", "Blue Floral", "Yellow Floral"],
-      "imageURL": "https://placeholder.com/images/kidswear/dress1.jpg",
+      "imageURL": "https://www.fayonkids.com/cdn/shop/products/fayon-kids-yellow-floral-printed-dress-for-girls-36897391870208.jpg?v=1650348557",
       "description": "Beautiful floral print dress perfect for any festive occasion.",
       "stock": 70,
       "rating": 4.8
@@ -917,7 +833,7 @@
       "price": 18.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Olive", "Tan", "Navy"],
-      "imageURL": "https://placeholder.com/images/kidswear/shorts1.jpg",
+      "imageURL": "https://assets.myntassets.com/dpr_1.5,q_60,w_400,c_limit,fl_progressive/assets/images/17054750/2022/11/16/71a4681b-238b-497e-b8e6-a1aa8530beb61668576123780-Nautica-Boys-Blue-Solid-Cargo-Shorts-8551668576123151-1.jpg",
       "description": "Durable cargo shorts for active outdoor play.",
       "stock": 80,
       "rating": 4.4
@@ -929,7 +845,7 @@
       "price": 34.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Yellow", "Red", "Blue"],
-      "imageURL": "https://placeholder.com/images/kidswear/outerwear1.jpg",
+      "imageURL": "https://images.marleylilly.com/profiles/mlk-product-detail/product/84776/CTT-black-mom-and-me-rain-jackets.jpg",
       "description": "Water-resistant and lightweight jacket for rainy days.",
       "stock": 45,
       "rating": 4.6
@@ -941,7 +857,7 @@
       "price": 9.99,
       "size": ["XS", "S", "M"],
       "color": ["Multicolor"],
-      "imageURL": "https://placeholder.com/images/kidswear/socks1.jpg",
+      "imageURL": "https://www.jiomart.com/images/product/original/rvovzbftxu/bonjour-boys-multicolor-all-over-print-cotton-blend-pack-of-5-everyday-socks-3-5-years-product-images-rvovzbftxu-1-202211011811.jpg?im=Resize=(500,630)",
       "description": "Comfortable, breathable cotton blend socks for daily wear.",
       "stock": 100,
       "rating": 4.7
@@ -953,7 +869,7 @@
       "price": 15.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Blue", "Green", "Red"],
-      "imageURL": "https://placeholder.com/images/kidswear/swimwear1.jpg",
+      "imageURL": "https://cdn.shopify.com/s/files/1/0077/0432/products/LilWhaleSharks_KidsSwim__406231-00_SD_4.webp?v=1683321146",
       "description": "Quick-drying swim shorts for fun in and out of the water.",
       "stock": 65,
       "rating": 4.5
@@ -965,7 +881,7 @@
       "price": 16.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Navy", "Red", "Green"],
-      "imageURL": "https://placeholder.com/images/kidswear/skirt1.jpg",
+      "imageURL": "https://m.media-amazon.com/images/I/71le7jaxDkL._AC_UY1100_.jpg",
       "description": "Chic pleated skirt in cotton, perfect for school and play.",
       "stock": 55,
       "rating": 4.6
@@ -977,7 +893,7 @@
       "price": 7.99,
       "size": ["One Size"],
       "color": ["Black", "Blue", "Pink"],
-      "imageURL": "https://placeholder.com/images/kidswear/hat1.jpg",
+      "imageURL": "https://m.media-amazon.com/images/I/61fIyjkOuzL._AC_UY1100_.jpg",
       "description": "Adjustable baseball cap to keep the sun out of their eyes.",
       "stock": 85,
       "rating": 4.5
@@ -989,7 +905,7 @@
       "price": 12.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Multicolor"],
-      "imageURL": "https://placeholder.com/images/kidswear/underwear1.jpg",
+      "imageURL": "https://images.meesho.com/images/products/330156751/a3gbu_512.webp",
       "description": "Soft, breathable cotton underwear in a variety of colors.",
       "stock": 90,
       "rating": 4.7
@@ -1001,7 +917,7 @@
       "price": 19.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Stars", "Stripes", "Solid"],
-      "imageURL": "https://placeholder.com/images/kidswear/nightwear1.jpg",
+      "imageURL": "https://companystore-res.cloudinary.com/image/upload/f_auto,q_auto,dpr_auto/webimages/60010e_kids_pjset_dogs_front?_s=RAABAB0",
       "description": "Comfortable pajama set for a good night's sleep.",
       "stock": 70,
       "rating": 4.8
@@ -1013,7 +929,7 @@
       "price": 22.99,
       "size": ["One Size"],
       "color": ["Red", "Blue", "Green"],
-      "imageURL": "https://placeholder.com/images/kidswear/accessory1.jpg",
+      "imageURL": "https://5.imimg.com/data5/SELLER/Default/2023/7/323303541/EW/NP/AL/56810464/kidventure-series-polyester-22-litres-kids-backpack-school-bag-tiny-tots-child-age-5-7-years.jpg",
       "description": "Durable and colorful backpack for school and travel.",
       "stock": 60,
       "rating": 4.6
@@ -1025,7 +941,7 @@
       "price": 29.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["White", "Black", "Grey"],
-      "imageURL": "https://placeholder.com/images/kidswear/footwear1.jpg",
+      "imageURL": "https://image.made-in-china.com/202f0j00WaHbyBiUCLcj/New-Arrival-Fashionable-Running-Sports-Sneakers-Shoes-for-Children.webp",
       "description": "Stylish and comfortable sneakers for everyday wear.",
       "stock": 75,
       "rating": 4.7
@@ -1037,7 +953,7 @@
       "price": 14.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Black", "Navy", "Grey"],
-      "imageURL": "https://placeholder.com/images/kidswear/leggings1.jpg",
+      "imageURL": "https://m.media-amazon.com/images/I/71-rz2VYuWL._AC_UY1100_.jpg",
       "description": "Versatile stretch leggings, perfect for play and relaxation.",
       "stock": 80,
       "rating": 4.5
@@ -1049,7 +965,7 @@
       "price": 24.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Maroon", "Navy", "Cream"],
-      "imageURL": "https://placeholder.com/images/kidswear/sweater1.jpg",
+      "imageURL": "https://m.media-amazon.com/images/I/81lOdsZcB5L._AC_UY1100_.jpg",
       "description": "Cozy wool blend sweater to keep warm in cooler weather.",
       "stock": 50,
       "rating": 4.6
@@ -1061,7 +977,7 @@
       "price": 34.99,
       "size": ["S", "M", "L"],
       "color": ["Various"],
-      "imageURL": "https://placeholder.com/images/kidswear/costume1.jpg",
+      "imageURL": "https://rukminim2.flixcart.com/image/850/1000/kuzuoi80/kid-costume-wear/r/r/u/6-7-years-prem-sup-cos-cap-glo-soc-alice-emporium-original-imag7zxphvnz9egz.jpeg?q=90&crop=false",
       "description": "Fun and vibrant superhero costumes for playtime adventures.",
       "stock": 40,
       "rating": 4.8
@@ -1073,7 +989,7 @@
       "price": 49.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Navy", "White", "Khaki"],
-      "imageURL": "https://placeholder.com/images/kidswear/uniform1.jpg",
+      "imageURL": "https://5.imimg.com/data5/SELLER/Default/2020/9/XX/WH/UW/77831924/nice-school-uniforms-patterns-white-and-red-500x500.jpg",
       "description": "Complete school uniform set for daily wear.",
       "stock": 60,
       "rating": 4.7
@@ -1085,7 +1001,7 @@
       "price": 12.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["White", "Black", "Yellow"],
-      "imageURL": "https://placeholder.com/images/kidswear/tshirt1.jpg",
+      "imageURL": "https://m.media-amazon.com/images/I/B1F9XqluwtS._CLa%7C2140%2C2000%7C71CbitZlt6L.png%7C0%2C0%2C2140%2C2000%2B0.0%2C0.0%2C2140.0%2C2000.0_AC_SX679_.png",
       "description": "Fun and colorful graphic tees for everyday wear.",
       "stock": 90,
       "rating": 4.6
@@ -1097,7 +1013,7 @@
       "price": 35.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Blue", "Green", "Red"],
-      "imageURL": "https://placeholder.com/images/kidswear/jacket2.jpg",
+      "imageURL": "https://cdni.llbean.net/is/image/wim/505068_28428_41?hei=1095&wid=950&resMode=sharp2&defaultImage=llbprod/505068_28428_41",
       "description": "Perfect for layering, this zip-up jacket keeps your child warm during cooler days.",
       "stock": 60,
       "rating": 4.7
@@ -1109,7 +1025,7 @@
       "price": 9.99,
       "size": ["One Size"],
       "color": ["Grey", "Navy", "Red"],
-      "imageURL": "https://placeholder.com/images/kidswear/beanie1.jpg",
+      "imageURL": "https://images.meesho.com/images/products/325886244/21b2b_512.webp",
       "description": "Keep their head warm with our soft, knit winter beanie.",
       "stock": 100,
       "rating": 4.8
@@ -1121,7 +1037,7 @@
       "price": 49.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Black", "Blue", "Purple"],
-      "imageURL": "https://placeholder.com/images/kidswear/snowpants1.jpg",
+      "imageURL": "https://cdn.shopify.com/s/files/1/0047/9064/8905/files/I1252400_BLK_20_large.jpg?v=1695321823",
       "description": "Waterproof and insulated, these snow pants are perfect for winter activities.",
       "stock": 50,
       "rating": 4.9
@@ -1133,7 +1049,7 @@
       "price": 14.99,
       "size": ["XS", "S", "M"],
       "color": ["Black", "Red", "Blue"],
-      "imageURL": "https://placeholder.com/images/kidswear/gloves1.jpg",
+      "imageURL": "https://img.joomcdn.net/9b479e94776a06c09eb7d2b443e33172e340055a_original.jpeg",
       "description": "Warm and waterproof gloves for cold and snowy days.",
       "stock": 75,
       "rating": 4.7
@@ -1145,7 +1061,7 @@
       "price": 19.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Brown", "Navy", "Pink"],
-      "imageURL": "https://placeholder.com/images/kidswear/sandals1.jpg",
+      "imageURL": "https://i.etsystatic.com/11265180/r/il/30c06a/2541792076/il_570xN.2541792076_t52r.jpg",
       "description": "Comfortable and durable sandals for summer adventures.",
       "stock": 85,
       "rating": 4.5
@@ -1157,7 +1073,7 @@
       "price": 29.99,
       "size": ["XS", "S", "M", "L"],
       "color": ["Yellow", "Green", "Blue"],
-      "imageURL": "https://placeholder.com/images/kidswear/rainboots1.jpg",
+      "imageURL": "https://m.media-amazon.com/images/I/71CFhxkN43L._AC_UY1000_.jpg",
       "description": "Keep their feet dry and comfortable with these colorful waterproof boots.",
       "stock": 60,
       "rating": 4.6
@@ -1169,7 +1085,7 @@
       "price": 9.99,
       "size": ["Newborn", "3M", "6M", "12M"],
       "color": ["White", "Pink", "Blue"],
-      "imageURL": "https://placeholder.com/images/kidswear/bodysuit1.jpg",
+      "imageURL": "https://assets.ajio.com/medias/sys_master/root/ajio/catalog/5f046b40481085a2e26b55c1/-473Wx593H-410151506-brigm-MODEL.jpg",
       "description": "Soft and comfortable cotton bodysuits for the little ones.",
       "stock": 120,
       "rating": 4.8
@@ -1181,7 +1097,7 @@
       "price": 24.99,
       "size": ["12M", "18M", "2T", "3T"],
       "color": ["Denim"],
-      "imageURL": "https://placeholder.com/images/kidswear/overalls1.jpg",
+      "imageURL": "https://target.scene7.com/is/image/Target/GUEST_708af8b6-99fe-4004-a925-dd26c0e06272?wid=488&hei=488&fmt=pjpeg",
       "description": "Classic and durable denim overalls for toddlers.",
       "stock": 70,
       "rating": 4.9
